@@ -12,14 +12,6 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-Prein, A., N. Ban,
-…, *P.K. Potapakula*
-*, B. Ahrens*, …, D. Chen
-(2022) Towards Ensemble-Based Kilometer-Scale Climate Simulations over
-the Third Pole Region. Subm. to Climate Dynamics.
-<a href="https://www.researchsquare.com/article/rs-1570621/v1"
-target="_blank">Preprint.</a>
-
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
  (2021).  *
 Vb-cyclones and
@@ -29,8 +21,7 @@ ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 Zittis, G.,
-*B. Ahrens, A. Obermann-Hellhund*
-style="font-family: Georgia; font-size: 14px;">, E. Giannakis,
+*B. Ahrens, A. Obermann-Hellhund*, E. Giannakis,
 *D.
 Risto*, M.
 Agulles, G. Jorda, M. Quesada Peña, V. Lora Rodríguez, J.L. Guersi
@@ -42,15 +33,21 @@ to Environment, Development and Sustainability (ENVI)
 
 **2022:**
 
+Prein, A., N. Ban,
+…, *P.K. Potapakula*, *B. Ahrens*, …, D. Chen
+(2022) Towards Ensemble-Based Kilometer-Scale Climate Simulations over
+the Third Pole Region. Climate Dynamics. DOI:
+<a href="https://doi.org/10.1007/s00382-022-06543-3"
+target="_blank" style="">
+https://doi.org/10.1007/s00382-022-06543-3</a>
+
 Kramer, I.M., M.
 Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
 P. Phuyal, J. Hartke, A. Magdeburg, D. A. Groneberg, *B. Ahrens*, R.
 Müller, A-M. Waldvogel (2022). 
-Genomic profiling of
-climate adaptation in Aedes aegypti along an altitudinal gradient in
-Nepal indicates non-gradual expansion of the disease vector. Molecular
-Ecology. <a href="https://www.biorxiv.org/content/10.1101/2022.04.20.488929v1"
-target="_blank" style="">Preprint</a>
+Genomic profiling of climate adaptation in Aedes aegypti along an altitudinal gradient in Nepal indicates nongradual expansion of the disease vector. Molecular
+Ecology. DOI: <a href="http://doi.org/10.1111/mec.16752"
+target="_blank" style="">https://doi.org/10.1111/mec.16752</a> (EO)
 
 Diez-Sierra, J., M.
 Iturbide, J. M. Gutiérrez, J. Fernández, J. Milovak, A. S. Cofiño, E.
@@ -67,8 +64,7 @@ Thatcher, C. Torma, E. van Meijgaard, R. Vautard, K. Warrach-Sagi, K.
 Winger, and G. Zittis (2022). The worldwide C3S CORDEX grand ensemble: A major
 contribution to assess regional climate change in the IPCC AR6
 Atlas. Bulletin of the American
-Meteorological Society. <a
-href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-22-0111.1/BAMS-D-22-0111.1.xml?tab_body=abstract-display"
+Meteorological Society, E2804–E2826. DOI: <a href="https://doi.org/10.1175/BAMS-D-22-0111.1"
 target="_blank">https://doi.org/10.1175/BAMS-D-22-0111.1</a>
 
 *Risto, D.*, K.
@@ -117,12 +113,12 @@ target="_blank">https://doi.org/10.1007/s00382-022-06256-7</a>
 
 
 Leon … *Ahrens,
-Obermann*, ... (2021) Downscaling climate change impacts, socio-economic
+Obermann*, ... (2021). Downscaling climate change impacts, socio-economic
 implications and alternative adaptation pathways for islands and
 outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://doi.org/10.5281/zenodo.5141549)
 
 *Ahrens, B., N.
-Leps* (2021) Sensitivity of Convection Permitting Simulations to Lateral
+Leps* (2021). Sensitivity of Convection Permitting Simulations to Lateral
 Boundary Conditions in Idealised Experiments. Journal of Advances in
 Modeling Earth Systems, 13(12) <http://doi.org/10.1029/2021MS002519> 
 
