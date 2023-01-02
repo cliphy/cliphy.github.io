@@ -4,12 +4,10 @@ title: Publications
 permalink: /pubs/
 ---
 
-***Selected
-refereed publications - ask for reprints!:***
+***Selected refereed publications - ask for reprints!:***
 
 (Author names of
-group members are italicize
-style="font-family: Georgia; font-size: 14px;">d)
+group members are *italicized*)
 
 **Submitted or
 Under Revision:**
@@ -1154,12 +1152,3 @@ Ahrens, B., Stix,
 M., and Thorn, M. (1992). On the depletion of lithium in the Sun.
 Astron. Astrophys, 264:673–678.
 
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-
-
-
-[jekyll-organization]: https://github.com/jekyll
