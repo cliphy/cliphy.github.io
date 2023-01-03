@@ -5,3 +5,7 @@
 layout: home
 ---
 test
+
+figures in markdown?
+
+![fig](./figs/words.png)
