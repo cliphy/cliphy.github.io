@@ -229,15 +229,15 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
     of dimensionality/climate classification / V.V.</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Diurnal cycle of precipitation along the Himalayan mountain range / 
-    A. Halbig, 2022</span>
+    <a
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScAHalbig2022.pdf"
+    target="_blank">A. Halbig, 2022</a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Information
     exchange from marginal seas to Vb-precipitation in MedCORDEX
-    simulations / </span><a
-    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScCCzakay2022.pdf"
-    target="_blank"
-    style="color: rgb(0, 0, 0); font-family: Georgia; font-size: 14px;">C. Czakay,
-    2022</a>
+    simulations / <a
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScCCzakay2022.pdf" target="_blank">C. Czakay,
+    2022</a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Vorhersage
     des Nordatlantischen Oszillationsindex für die Wintermonate
@@ -412,18 +412,16 @@ style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">
 
 ## Allgemeine Hinweise
 
--   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Anteilige
+-   Anteilige
     Druckkosten für Abschlussarbeiten können eventuell über QSL-Mittel
-    übernommen werden!</span>
--   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Richtlinien
+    übernommen werden!
+-   Richtlinien
     zur Erstellg. der MSc-Arbeit <a
     href="http://www.uni-frankfurt.de/52700418/Formular-Masterarbeit-mit-Richtlinien-MSc-Meteo-.doc"
     target="_blank">hier</a> (für die Erstellung der BSc-Arbeit können
-    Sie sich an diesen Richtlinien orientieren).</span>
--   <span
-    style="color: rgb(0, 0, 0); font-family: Georgia; font-size: 14px;">Einige
+    Sie sich an diesen Richtlinien orientieren).
+-   Eine nach eigener Einschätzung fertige Version mit Bitte um Kommentare an die Betreuer:innen rechtzeitig vor Abgabe ist empfohlen.
+-   Einige
     Hinweise nach welchen Kriterien bewertet wird:  
       
 
