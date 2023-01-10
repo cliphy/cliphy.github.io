@@ -3,6 +3,7 @@ layout: page
 title: Group
 permalink: /group/
 ---
+![2023.01](./figs/2301Group300.png)
 
 ## Catalog of the group’s submitted PhD theses
 
