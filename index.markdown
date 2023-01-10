@@ -8,12 +8,10 @@ layout: home
 
 Research on “too much and too little water” for too many people in the climate system under change. 
 
+The objective of our research is to bridge the boundaries between the atmosphere, hydrosphere, biosphere, cryosphere, and solid earth. By doing so, we aim to gain a deeper understanding of the processes that shape the climate system and improve our predictions and 
+to improve seasonal, decadal, and longer-term climate predictions and story lines. 
 
-
-The goal is to bridge atmosphere-hydrosphere-biosphere-cryosphere-solid earth boundaries ... 
-and this will lead to a better understanding of the processes in the climate system and to 
-improved seasonal, decadal, and more climate predictions and story lines. We develop 
-alternative futures under different assumptions<sup>1)</sup>. But, we accept the following: 
+We develop alternative futures under different assumptions<sup>1)</sup>. But, we accept the following: 
 The key here is a simple matter: in such a complex issue we cannot have certainty, and we don’t claim it 
 (S. Weart, AIP, 2006).
 

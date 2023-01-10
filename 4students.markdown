@@ -23,15 +23,14 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
     sphere - a Thomson problem. D.M -&gt; 23.01.23</span>
 -   <span style="font-size: 14px; font-family: Georgia;">Predictability
     of the Indian summer monsoon with Speedy during El Niño and La Niña
-    years / </span><a
+    years / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMBeylich2022.pdf"
-    target="_blank" style="font-family: Georgia; font-size: 14px;">M.
-    Beylich, 2022</a>
+    target="_blank" >M.
+    Beylich, 2022</a> </span>
 -   <span style="font-size: 14px; font-family: Georgia;">Sind
-    Vb-Ereignisse saisonal oder durch Blocking beeinflusst? / </span><a
+    Vb-Ereignisse saisonal oder durch Blocking beeinflusst? / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScBRinschen2022.pdf"
-    target="_blank" style="font-family: Georgia; font-size: 14px;">B.
-    Rinschen, 2022</a>
+    target="_blank" >B. Rinschen, 2022</a></span>
 -   <span style="font-size: 14px; font-family: Georgia;">Evaluation des
     Strömungssystems des Mittelmeers anhand von Simulationsdaten / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMGromball2019.pdf"
@@ -39,10 +38,10 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 -   <span style="font-size: 14px; font-family: Georgia;">Konzeption
     eines Klimainformationssystems mit QGIS / U. Lorenz, 2019</span>
 -   <span style="font-size: 14px; font-family: Georgia;">Sensitivität
-    der Strahlungsbilanz auf Wolkeneigenschaften / </span><a
+    der Strahlungsbilanz auf Wolkeneigenschaften / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScKPfannkuch2018.pdf"
-    target="_blank" style="font-family: Georgia; font-size: 14px;">K.
-    Pfannkuch, 2018</a>
+    target="_blank" >K.
+    Pfannkuch, 2018</a></span>
 -   <span style="font-size: 14px; font-family: Georgia;">Zusammenhang
     von lokalen Windsystemen im Mittelmeerraum / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScCReichel2018.pdf"
@@ -52,18 +51,17 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
     href="http://user.uni-frankfurt.de/~bahrens/bscpdfs/BScRlohmann2018.pdf"
     target="_blank">R. Lohmann, 2018</a></span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Niederschlagszellen
+    style="font-size: 14px; font-family: Georgia; ">Niederschlagszellen
     am Taunus: Vergleich zwischen COSMO-CLM und Radarbeobachtungen / <a
     href="http://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMThomas2018.pdf"
     target="_blank">M. Thomas, 2018</a></span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Analyse
+    style="font-size: 14px; font-family: Georgia;" >Analyse
     von Tornadoereignissen mittels Zusammenschau verschiedener
-    Datenquellen / </span><a
+    Datenquellen / <a
     href="http://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMDziobaka2018.pdf"
-    target="_blank"
-    style="color: rgb(0, 0, 0); font-family: Georgia; font-size: 14px;">M.J.
-    Dziobaka, 2018</a>
+    target="_blank">M.J.
+    Dziobaka, 2018</a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Die
     Bora an der kroatischen Adria – Schwerewellenbrechen und
@@ -139,9 +137,7 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
     target="_blank">M. Granzin, 2015</a> </span>
 -   <span
     style="color: rgb(0, 0, 0); font-family: Georgia; font-size: 14px;">Verifikation
-    des <a
-    href="http://user.uni-frankfurt.de/~bahrens/bscpdfs/BScLJosipovic2018.pdf"
-    target="_blank">PREMETEO</a> Vorhersageindex (der Gesellschaft für
+    des PREMETEO Vorhersageindex (der Gesellschaft für
     Kosmogeometrischen Wetterforschung) / <a
     href="http://user.uni-frankfurt.de/~bahrens/bscpdfs/BScUllrich2014.pdf"
     target="_blank">M.Ullrich, 2014 </a></span>
@@ -468,7 +464,7 @@ eigeninitiatives Arbeiten</span>
 
   
 
-<span style="font-size: 14px; font-family: Georgia;">If you write your
+<span>If you write your
 thesis in English the book Gardner (2016) might be of interest. The
 publication teaches that EU and British English are different … and
 nothing is perfect. One rule always helps: keep it simple.</span>

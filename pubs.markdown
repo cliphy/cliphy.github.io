@@ -46,7 +46,7 @@ Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
 P. Phuyal, J. Hartke, A. Magdeburg, D. A. Groneberg, *B. Ahrens*, R.
 Müller, A-M. Waldvogel (2022). 
 Genomic profiling of climate adaptation in Aedes aegypti along an altitudinal gradient in Nepal indicates nongradual expansion of the disease vector. Molecular
-Ecology. DOI: <a href="http://doi.org/10.1111/mec.16752"
+Ecology. DOI: <a href="http://dx.doi.org/10.1111/mec.16752"
 target="_blank" style="">https://doi.org/10.1111/mec.16752</a> (EO)
 
 Diez-Sierra, J., M.
