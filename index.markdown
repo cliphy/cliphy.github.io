@@ -12,7 +12,7 @@ The objective of our research is to bridge the boundaries between the atmosphere
 to improve seasonal, decadal, and longer-term climate predictions and story lines. 
 
 We develop alternative futures under different assumptions<sup>1)</sup>. But, we accept the following: 
-The key here is a simple matter: in such a complex issue we cannot have certainty, and we don’t claim it 
+"The key here is a simple matter: in such a complex issue we cannot have certainty, and we don’t claim it" 
 (S. Weart, AIP, 2006).
 
 
