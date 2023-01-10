@@ -3,7 +3,9 @@ layout: page
 title: Group
 permalink: /group/
 ---
-![2023.01](./figs/2301Group300.png)
+![2023.01](./figs/2301Group900.png)
+
+Group in Jan. 2023 - left to right: Prashant Singh, Abhiyan Poudel, Bodo Ahrens, Vanessa Voss, Arathi R, Fanni Kelemen, Richard Lohmann, Danny Risto, Christian Czakay, Mostafa Hamouda, Luo Zhicheng. Missing: Manpreet Kaur, Anika Obermann-Hehhund, Thomas Junghänel (DWD) 
 
 ## Catalog of the group’s submitted PhD theses
 
@@ -50,5 +52,5 @@ Group in Apr. 2016 - left to right: Naveed Akhtar, Praveen Kumar Pothapakula, Bo
 
 ![2011.04](./figs/1104Group300.jpeg)
 
-Group in Apr. 2011: Left to right: Frank Kalinka, Stefan Krähenmann, Christoph Brendel, Shakeel Asharaf, Bodo Ahrens, Andreas Dobler, Steffen Kothe, Jana Bauer, Sven Brinckmann, Uwe Pfeifroth. Missing: the students Julian Tödter, Nadine Hoesl, and Guido Ilse
+Group in Apr. 2011 - left to right: Frank Kalinka, Stefan Krähenmann, Christoph Brendel, Shakeel Asharaf, Bodo Ahrens, Andreas Dobler, Steffen Kothe, Jana Bauer, Sven Brinckmann, Uwe Pfeifroth. Missing: the students Julian Tödter, Nadine Hoesl, and Guido Ilse
 
