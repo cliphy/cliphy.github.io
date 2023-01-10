@@ -16,7 +16,7 @@ We develop alternative futures under different assumptions<sup>1)</sup>. But, we
 (S. Weart, AIP, 2006).
 
 
-1)  F. Dürrenmatt in Das Versprechen, 1958: “Ein Geschehen kann schon allein deshalb nicht wie eine Rechnung aufgehen, weil wir nie alle notwendigen Faktoren kennen, sondern nur einige wenige, meistens recht nebensächliche.”  
+1)  F. Dürrenmatt in Das Versprechen, 1958: "Ein Geschehen kann schon allein deshalb nicht wie eine Rechnung aufgehen, weil wir nie alle notwendigen Faktoren kennen, sondern nur einige wenige, meistens recht nebensächliche." 
 
 
 <div style="text-align: right" > 
