@@ -5,7 +5,7 @@ permalink: /group/
 ---
 ![2023.01](./figs/2301Group900.png)
 
-Group in Jan. 2023 - left to right: Prashant Singh, Abhiyan Poudel, Bodo Ahrens, Vanessa Voss, Arathi R, Fanni Kelemen, Richard Lohmann, Danny Risto, Christian Czakay, Mostafa Hamouda, Luo Zhicheng. Missing: Manpreet Kaur, Anika Obermann-Hehhund, Thomas Junghänel (DWD) 
+Group in Jan. 2023 - left to right: Prashant Singh, Abhiyan Poudel, Bodo Ahrens, Vanessa Voss, Arathi R, Fanni Kelemen, Richard Lohmann, Danny Risto, Christian Czakay, Mostafa Hamouda, Luo Zhicheng. Missing: Manpreet Kaur, Anika Obermann-Hellhund, Thomas Junghänel (DWD) 
 
 ## Catalog of the group’s submitted PhD theses
 
