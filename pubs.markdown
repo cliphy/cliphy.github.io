@@ -12,6 +12,8 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2021) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Sub. to Paleoceanography and Paleoclimatology. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
+
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
  (2021).  *
 Vb-cyclones and
@@ -35,7 +37,7 @@ to Environment, Development and Sustainability (ENVI)
 
 Prein, A., N. Ban,
 …, *P.K. Potapakula*, *B. Ahrens*, …, D. Chen
-(2022) Towards Ensemble-Based Kilometer-Scale Climate Simulations over
+(2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over
 the Third Pole Region. Climate Dynamics. DOI:
 <a href="https://doi.org/10.1007/s00382-022-06543-3"
 target="_blank" style="">
@@ -47,7 +49,7 @@ P. Phuyal, J. Hartke, A. Magdeburg, D. A. Groneberg, *B. Ahrens*, R.
 Müller, A-M. Waldvogel (2022). 
 Genomic profiling of climate adaptation in Aedes aegypti along an altitudinal gradient in Nepal indicates nongradual expansion of the disease vector. Molecular
 Ecology. DOI: <a href="http://dx.doi.org/10.1111/mec.16752"
-target="_blank" style="">https://doi.org/10.1111/mec.16752</a> (EO)
+target="_blank" style="">https://doi.org/10.1111/mec.16752</a>
 
 Diez-Sierra, J., M.
 Iturbide, J. M. Gutiérrez, J. Fernández, J. Milovak, A. S. Cofiño, E.
