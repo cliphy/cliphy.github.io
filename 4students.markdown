@@ -20,7 +20,9 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 ## BSc theses
 
 -   <span style="font-size: 14px; font-family: Georgia;">Points on
-    sphere - a Thomson problem. D.M -&gt; 23.01.23</span>
+    sphere - a Thomson problem / <a
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScDMMohr2023.pdf"
+    target="_blank" >D.M. Mohr, 2023</a> </span>
 -   <span style="font-size: 14px; font-family: Georgia;">Predictability
     of the Indian summer monsoon with Speedy during El Niño and La Niña
     years / <a
