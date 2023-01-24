@@ -419,8 +419,7 @@ style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">
     target="_blank">hier</a> (für die Erstellung der BSc-Arbeit können
     Sie sich an diesen Richtlinien orientieren).
 -   Eine nach eigener Einschätzung fertige Version mit Bitte um Kommentare an die Betreuer:innen rechtzeitig vor Abgabe ist empfohlen.
--   Einige
-    Hinweise nach welchen Kriterien bewertet wird:  
+-   Einige Hinweise nach welchen Kriterien bewertet wird:  
       
 
 <span
