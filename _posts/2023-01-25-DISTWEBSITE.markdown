@@ -2,7 +2,6 @@
 layout: post
 title:  "DISTENDER website online"
 date:   2023-01-25
-categories: 
 ---
 ![fig](./DISTENDERlogo2.png)
 
