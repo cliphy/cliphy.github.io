@@ -12,6 +12,6 @@ This week the project website went online: <https://distender.eu>
 
 Our role in the project is to provide 
 climate information and our main tool within the project is the regional climate model ICON-CLM in km-scale resolution. 
-The Fig. shows, as an example, the ICON-CLM simulated T2m (°C) for the very hot summer day 26 June 2019. 
+The Fig. shows, as an example, the ICON-CLM simulated T2m (°C) for the very hot summer day 26 June 2019. (MK,BA)
 
 ![fig](./T2m20190626.png)
