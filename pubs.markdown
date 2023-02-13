@@ -12,10 +12,12 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2021) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Sub. to Paleoceanography and Paleoclimatology. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
+*Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Subm. to Hydrologie und Wasserbewirtschaftung (HyWa)
+
+*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Sub. to Paleoceanography and Paleoclimatology. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
 
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
- (2021).  *
+ (2022).  *
 Vb-cyclones and
 associated North-Western Mediterranean Sea state in regional coupled
 climate simulations: evaluation and projection. Subm. to
@@ -28,7 +30,7 @@ Zittis, G.,
 Risto*, M.
 Agulles, G. Jorda, M. Quesada Peña, V. Lora Rodríguez, J.L. Guersi
 Sauret, P. Lionello, E. Briche, J. Collignan, M. Grätz, C. Stylianou, H.
-Neophytou, D. Arikas, D. Serghides (2020) 
+Neophytou, D. Arikas, D. Serghides (2023) 
 Maritime transport
 disruption risk for EU islands under a changing climate". Subm.
 to Environment, Development and Sustainability (ENVI)
