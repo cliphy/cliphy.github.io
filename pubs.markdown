@@ -100,7 +100,7 @@ href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-21-0331.1/BAMS-
 target="_blank">https://doi.org/10.1175/BAMS-D-21-0331.1</a>
 
 *Purr, C.*, E.
-Brisson, H. Schlünzen, *B. Ahrens** (2022). Convective rain cell properties
+Brisson, H. Schlünzen, *B. Ahrens* (2022). Convective rain cell properties
 and the resulting precipitation scaling in a warm temperate climate.
 Quarterly J. of Royal Met. Soc., 148(745),
 1768-1781. <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4277"
@@ -168,7 +168,7 @@ precipitation: a transfer entropy application showcase. <a
 href="https://www.schweizerbart.de/papers/metz/detail/prepub/98293/Heavy_Vb_cyclone_precipitation_a_transfer_entropy_application_showcase"
 target="_blank">DOI: 10.1127/metz/2021/1071</a>
 
-*Kramer, I.**, M.
+*Kramer, I.*, M.
 Pfeiffer, O. Steffens, F. Schneider, V. Gerger, P. Phuyal, M. Braun, A.
 Magdeburg, U. Kuch, *B. Ahrens*, D. Groneberg, M.
 Dhimal, R. Müller (2021) The ecophysiological plasticity of Aedes

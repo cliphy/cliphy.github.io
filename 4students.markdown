@@ -223,8 +223,7 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 ## MSc theses
 
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Deduction
-    of dimensionality/climate classification / V.V.</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Analysis of teleconnections using Delta-Maps / V.V. -> 14.8.23</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Diurnal cycle of precipitation along the Himalayan mountain range / 
     <a
