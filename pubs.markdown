@@ -12,6 +12,8 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future
+
 *Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Subm. to Hydrologie und Wasserbewirtschaftung (HyWa)
 
 *Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Sub. to Paleoceanography and Paleoclimatology. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
@@ -35,6 +37,16 @@ Maritime transport
 disruption risk for EU islands under a changing climate". Subm.
 to Environment, Development and Sustainability (ENVI)
 
+**2023:**
+
+Kramer, I.M., M.
+Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
+P. Phuyal, J. Hartke, A. Magdeburg, D. A. Groneberg, *B. Ahrens*, R.
+Müller, A-M. Waldvogel (2023). 
+Genomic profiling of climate adaptation in Aedes aegypti along an altitudinal gradient in Nepal indicates nongradual expansion of the disease vector. Molecular
+Ecology, 32(2), 350-368. DOI: <a href="http://dx.doi.org/10.1111/mec.16752"
+target="_blank" style="">https://doi.org/10.1111/mec.16752</a>
+
 **2022:**
 
 Prein, A., N. Ban,
@@ -44,14 +56,6 @@ the Third Pole Region. Climate Dynamics. DOI:
 <a href="https://doi.org/10.1007/s00382-022-06543-3"
 target="_blank" style="">
 https://doi.org/10.1007/s00382-022-06543-3</a>
-
-Kramer, I.M., M.
-Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
-P. Phuyal, J. Hartke, A. Magdeburg, D. A. Groneberg, *B. Ahrens*, R.
-Müller, A-M. Waldvogel (2022). 
-Genomic profiling of climate adaptation in Aedes aegypti along an altitudinal gradient in Nepal indicates nongradual expansion of the disease vector. Molecular
-Ecology. DOI: <a href="http://dx.doi.org/10.1111/mec.16752"
-target="_blank" style="">https://doi.org/10.1111/mec.16752</a>
 
 Diez-Sierra, J., M.
 Iturbide, J. M. Gutiérrez, J. Fernández, J. Milovak, A. S. Cofiño, E.
@@ -80,7 +84,7 @@ style="font-family: Georgia; font-size: 14px;">Systems. Atmosphere,
 10.3390/atmos13071002</a>
 
 *Obermann-Hellhund, A.* (2022). State of the Simulation of Mesoscale Winds in the
-Mediterranean and Opportunities for Improvements. Atmosphere, 13(7), 1007. [DOI: 10.3390/atmos13071007](https://www.mdpi.com/2073-4433/13/7/1007)
+Mediterranean and Opportunities for Improvements. Atmosphere, 13(7), 1007. [DOI: 10.3390/atmos13071007](https://www.mdpi.com/2073-4433/13/7/1007/)
 
 Macdonald, E., B.
 Merz, B. Guse, L.M. Wietzke, S. Ullrich, M. Kemter, *B. Ahrens*, S.
@@ -119,7 +123,7 @@ target="_blank">https://doi.org/10.1007/s00382-022-06256-7</a>
 Leon … *Ahrens,
 Obermann*, ... (2021). Downscaling climate change impacts, socio-economic
 implications and alternative adaptation pathways for islands and
-outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://doi.org/10.5281/zenodo.5141549)
+outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://doi.org/10.5281/zenodo.5141549/)
 
 *Ahrens, B., N.
 Leps* (2021). Sensitivity of Convection Permitting Simulations to Lateral
