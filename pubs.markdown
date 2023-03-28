@@ -123,7 +123,7 @@ target="_blank">https://doi.org/10.1007/s00382-022-06256-7</a>
 Leon … *Ahrens,
 Obermann*, ... (2021). Downscaling climate change impacts, socio-economic
 implications and alternative adaptation pathways for islands and
-outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://doi.org/10.5281/zenodo.5141549/)
+outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://zenodo.org/record/5141549#.ZBxQ0S8w1qs/)
 
 *Ahrens, B., N.
 Leps* (2021). Sensitivity of Convection Permitting Simulations to Lateral
