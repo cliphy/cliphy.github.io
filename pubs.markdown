@@ -12,7 +12,7 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future
+Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future. Preprint: [DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d)
 
 *Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Subm. to Hydrologie und Wasserbewirtschaftung (HyWa)
 
@@ -26,6 +26,9 @@ climate simulations: evaluation and projection. Subm. to
 ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
+
+**2023:**
+
 Zittis, G.,
 *B. Ahrens, A. Obermann-Hellhund*, E. Giannakis,
 *D.
@@ -34,10 +37,7 @@ Agulles, G. Jorda, M. Quesada Peña, V. Lora Rodríguez, J.L. Guersi
 Sauret, P. Lionello, E. Briche, J. Collignan, M. Grätz, C. Stylianou, H.
 Neophytou, D. Arikas, D. Serghides (2023) 
 Maritime transport
-disruption risk for EU islands under a changing climate". Subm.
-to Environment, Development and Sustainability (ENVI)
-
-**2023:**
+disruption risk for EU islands under a changing climate". Euro-Mediterranean Journal for Environmental Integration. Accepted.
 
 Kramer, I.M., M.
 Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
