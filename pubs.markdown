@@ -37,7 +37,19 @@ Agulles, G. Jorda, M. Quesada Peña, V. Lora Rodríguez, J.L. Guersi
 Sauret, P. Lionello, E. Briche, J. Collignan, M. Grätz, C. Stylianou, H.
 Neophytou, D. Arikas, D. Serghides (2023) 
 Maritime transport
-disruption risk for EU islands under a changing climate". Euro-Mediterranean Journal for Environmental Integration. Accepted.
+disruption risk for EU islands under a changing climate. Euro-Mediterranean Journal for Environmental Integration. Accepted.
+
+Valmassoi, A., J.D.
+Keller, D. Kleist, S. English, *B. Ahrens*, I. Bastak Duran, E.
+Bauernschubert, M.G. Bosilovich, M. Fujiwara, H. Hersbach, L. Lei, U.
+Löhnert, N. Mamnun, C.R. Martin, A.  Moore, D. Niermann, J. José Ruiz,
+L. Scheck (2023). Current challenges and future directions in data
+assimilation and reanalysis. Bulletin of the American Meteorological
+Society, E756–E767. <a
+href="https://doi.org/10.1175/BAMS-D-21-0331.1"
+target="_blank">https://doi.org/10.1175/BAMS-D-21-0331.1</a>
+
+*Purr, C.*, E.
 
 Kramer, I.M., M.
 Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
@@ -93,17 +105,7 @@ Floods. Water Resources Research. <a
 href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031260"
 target="_blank">DOI: 10.1029/2021WR031260</a>
 
-Valmassoi, A., J.D.
-Keller, D. Kleist, S. English, *B. Ahrens*, I. Bastak Duran, E.
-Bauernschubert, M.G. Bosilovich, M. Fujiwara, H. Hersbach, L. Lei, U.
-Löhnert, N. Mamnun, C.R. Martin, A.  Moore, D. Niermann, J. José Ruiz,
-L. Scheck (2022). Current challenges and future directions in data
-assimilation and reanalysis. Bulletin of the American Meteorological
-Society. Early Online. <a
-href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-21-0331.1/BAMS-D-21-0331.1.xml?tab_body=pdf"
-target="_blank">https://doi.org/10.1175/BAMS-D-21-0331.1</a>
 
-*Purr, C.*, E.
 Brisson, H. Schlünzen, *B. Ahrens* (2022). Convective rain cell properties
 and the resulting precipitation scaling in a warm temperate climate.
 Quarterly J. of Royal Met. Soc., 148(745),
