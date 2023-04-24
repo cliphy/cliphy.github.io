@@ -49,8 +49,6 @@ Society, E756–E767. <a
 href="https://doi.org/10.1175/BAMS-D-21-0331.1"
 target="_blank">https://doi.org/10.1175/BAMS-D-21-0331.1</a>
 
-*Purr, C.*, E.
-
 Kramer, I.M., M.
 Pfenninger,  B. Feldmeyer, M. Dhimal, I. Gautam, P. Shreshta, S. Baral,
 P. Phuyal, J. Hartke, A. Magdeburg, D. A. Groneberg, *B. Ahrens*, R.
@@ -106,7 +104,7 @@ href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031260"
 target="_blank">DOI: 10.1029/2021WR031260</a>
 
 
-Brisson, H. Schlünzen, *B. Ahrens* (2022). Convective rain cell properties
+*Purr, C.*, E. Brisson, H. Schlünzen, *B. Ahrens* (2022). Convective rain cell properties
 and the resulting precipitation scaling in a warm temperate climate.
 Quarterly J. of Royal Met. Soc., 148(745),
 1768-1781. <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4277"
@@ -334,7 +332,7 @@ regional climate simulation. Atmosphere, 10(9), 537. 
 C. Dieterich, *B. Ahrens* (2019). European Marginal
 Seas in a regional atmosphere-ocean coupled model and their impact on
 Vb-cyclones and associated precipitation. Climate Dynamics, 53,
-5967–5984. <https://doi.org/10.1007/s00382-019-04906-x> (OA)
+5967–5984. <https://doi.org/10.1007/s00382-019-04906-x/> (OA)
 
 *Leps, N.*, J.
 Brauch, *B. Ahrens*
