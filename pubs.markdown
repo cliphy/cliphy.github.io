@@ -98,7 +98,7 @@ style="font-family: Georgia; font-size: 14px;">Systems. Atmosphere,
 10.3390/atmos13071002</a>
 
 *Obermann-Hellhund, A.* (2022). State of the Simulation of Mesoscale Winds in the
-Mediterranean and Opportunities for Improvements. Atmosphere, 13(7), 1007. [DOI: 10.3390/atmos13071007](https://www.mdpi.com/2073-4433/13/7/1007/)
+Mediterranean and Opportunities for Improvements. Atmosphere, 13(7), 1007. [DOI: 10.3390/atmos13071007](https://www.mdpi.com/2073-4433/13/7/1007/){:target="_blank" rel="noopener"}
 
 Macdonald, E., B.
 Merz, B. Guse, L.M. Wietzke, S. Ullrich, M. Kemter, *B. Ahrens*, S.
@@ -127,7 +127,7 @@ target="_blank">https://doi.org/10.1007/s00382-022-06256-7</a>
 Leon … *Ahrens,
 Obermann*, ... (2021). Downscaling climate change impacts, socio-economic
 implications and alternative adaptation pathways for islands and
-outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://zenodo.org/record/5141549#.ZBxQ0S8w1qs/)
+outermost regions. Madrid: McGraw­Hill, pp. 406. DOI: [10.5281/zenodo.5141549](https://zenodo.org/record/5141549#.ZBxQ0S8w1qs/){:target="_blank" rel="noopener"}
 
 *Ahrens, B., N.
 Leps* (2021). Sensitivity of Convection Permitting Simulations to Lateral
@@ -256,14 +256,14 @@ How much warmer and drier
 will the Mediterranean
 region be at the end of the 21st century? Regional Environmental Change,
 20(3). DOI: 
-[10.1007/s10113-020-01659-w](https://link.springer.com/article/10.1007/s10113-020-01659-w) (OA)
+[10.1007/s10113-020-01659-w](https://link.springer.com/article/10.1007/s10113-020-01659-w){:target="_blank" rel="noopener"} (OA)
 
 *Kramer, I.M.*, A.
 Kreß, D. Klingelhöfer, C. Scherer, P. Phuyal, *B. Ahrens*, U. Kuch, D.A.
 Groneberg, M. Dhimal, R. Müller (2020). Does winter cold really limit the
 dengue vector Aedes aegypti in Europe? Parasite & Vectors, 13:178.
 [DOI: ](https://link.springer.com/epdf/10.1186/s13071-020-04054-w?author_access_token=qWQ6Wu5AGE0FwdTcDD8_TG_BpE1tBhCbnbw3BuzI2RM9vkj0YthhHjlB2dmpnnsnOO_7j_HQrcqF0WGOG__Bx3RK86dNMIo1SO1CKZ6lvG80rVGNfOHTkmijYdFEU-_AkcvwwImiknXBsp0OI8YDQQ%3D%3D)
-[10.1186/s13071-020-04054-w](https://link.springer.com/epdf/10.1186/s13071-020-04054-w?author_access_token=qWQ6Wu5AGE0FwdTcDD8_TG_BpE1tBhCbnbw3BuzI2RM9vkj0YthhHjlB2dmpnnsnOO_7j_HQrcqF0WGOG__Bx3RK86dNMIo1SO1CKZ6lvG80rVGNfOHTkmijYdFEU-_AkcvwwImiknXBsp0OI8YDQQ%3D%3D)
+[10.1186/s13071-020-04054-w](https://link.springer.com/epdf/10.1186/s13071-020-04054-w?author_access_token=qWQ6Wu5AGE0FwdTcDD8_TG_BpE1tBhCbnbw3BuzI2RM9vkj0YthhHjlB2dmpnnsnOO_7j_HQrcqF0WGOG__Bx3RK86dNMIo1SO1CKZ6lvG80rVGNfOHTkmijYdFEU-_AkcvwwImiknXBsp0OI8YDQQ%3D%3D){:target="_blank" rel="noopener"}
 (OA)
 
 *Krug, A., C. Primo*, S. Fischer, A. Schumann, *B. Ahrens* (2020). On the temporal
