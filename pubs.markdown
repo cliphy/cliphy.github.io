@@ -61,7 +61,7 @@ target="_blank" style="">https://doi.org/10.1111/mec.16752</a>
 
 Müller, S.K., Caillaud, C., Chan, S. ..., *Brisson, E.*, ... (2022). 
 Evaluation of Alpine-Mediterranean precipitation events in convection-permitting regional climate models using a set of tracking algorithms.
-Climate Dynamics. [DOI https://doi.org/10.1007/s00382-022-06555-z](https://link.springer.com/article/10.1007/s00382-022-06555-z/)
+Climate Dynamics. [DOI https://doi.org/10.1007/s00382-022-06555-z](https://link.springer.com/article/10.1007/s00382-022-06555-z/){:target="_blank" rel="noopener"}
 
 Prein, A., N. Ban,
 …, *P.K. Potapakula*, *B. Ahrens*, …, D. Chen
