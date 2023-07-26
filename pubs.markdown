@@ -14,10 +14,6 @@ Under Revision:**
 
 Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future. Preprint: [DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d)
 
-*Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Subm. to Hydrologie und Wasserbewirtschaftung (HyWa)
-
-*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Sub. to Paleoceanography and Paleoclimatology. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
-
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
  (2022).  *
 Vb-cyclones and
@@ -29,15 +25,16 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2023:**
 
+*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology. Accepted. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
+
+*Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Hydrologie und Wasserbewirtschaftung (HyWa). Accepted.
+
 Zittis, G.,
 *B. Ahrens, A. Obermann-Hellhund*, E. Giannakis,
 *D.
-Risto*, M.
-Agulles, G. Jorda, M. Quesada Peña, V. Lora Rodríguez, J.L. Guersi
-Sauret, P. Lionello, E. Briche, J. Collignan, M. Grätz, C. Stylianou, H.
-Neophytou, D. Arikas, D. Serghides (2023) 
-Maritime transport
-disruption risk for EU islands under a changing climate. Euro-Mediterranean Journal for Environmental Integration. Accepted.
+Risto* et al. (2023) Maritime transport and regional climate change impacts in large EU islands and archipelagos. 
+Euro-Mediterranean Journal for Environmental Integration. 
+[DOI: 10.1007/s41207-023-00370-6](https://doi.org/10.1007/s41207-023-00370-6/){:target="_blank" rel="noopener"}
 
 Valmassoi, A., J.D.
 Keller, D. Kleist, S. English, *B. Ahrens*, I. Bastak Duran, E.
@@ -91,8 +88,7 @@ target="_blank">https://doi.org/10.1175/BAMS-D-22-0111.1</a>
 
 *Risto, D.*, K.
 Fröhlich, *B. Ahrens* (2022). Snow Representation over Siberia in
-Operational Seasonal Forecasting 
-style="font-family: Georgia; font-size: 14px;">Systems. Atmosphere,
+Operational Seasonal Forecasting Systems. Atmosphere,
 13(7), 1002. 
 <a href="https://www.mdpi.com/2073-4433/13/7/1002" target="_blank">DOI:
 10.3390/atmos13071002</a>
@@ -115,9 +111,8 @@ Quarterly J. of Royal Met. Soc., 148(745),
 target="_blank">doi: 10.1002/qj.4277</a>
 
 *Krug, A.,* F.
-Aemisegger, M. Sprenger, *B. Ahrens* (2022) What intensifies
-Vb-cyclone precipitation in Central Europe? Climate
-Dynamics. <a
+Aemisegger, M. Sprenger, *B. Ahrens* (2022) Moisture sources of heavy precipitation in Central Europe in synoptic situations with Vb-cyclones. Climate
+Dynamics,  59, 3227-3245. <a
 href="https://link.springer.com/article/10.1007/s00382-022-06256-7#Ack1"
 target="_blank">https://doi.org/10.1007/s00382-022-06256-7</a>
 
