@@ -12,6 +12,10 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. Subm. to GRL.
+
+Portal, A., F. D'Andrea, P. Davini, *M.E. Hamouda*, and C. Pasquero. Atmospheric response to wintertime Tibetan Plateau cold bias in climate models. Subm. to Preprint at https://doi.org/10.5194/egusphere-2022-1499
+
 Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future. Preprint: [DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d)
 
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
@@ -25,7 +29,9 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2023:**
 
-*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology. Accepted. <a href="https://www.authorea.com/doi/full/10.22541/essoar.167065777.72214683/v1" target="_blank">Preprint</a>
+*Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) 
+Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology. 
+<a href="https://doi.org/10.1029/2022PA004607" target="_blank">Accepted.</a>
 
 *Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Hydrologie und Wasserbewirtschaftung (HyWa). Accepted.
 
@@ -67,6 +73,11 @@ the Third Pole Region. Climate Dynamics. DOI:
 <a href="https://doi.org/10.1007/s00382-022-06543-3"
 target="_blank" style="">
 https://doi.org/10.1007/s00382-022-06543-3</a>
+
+Portal, A, C. Pasquero, F. D'Andrea, P. Davini, *M.E. Hamouda*, G. Rivière (2022).
+Influence of Reduced Winter Land-Sea Contrast on the Midlatitude Atmospheric Circulation.
+J. of Climate, 6237-6251. DOI: <a href="https://doi.org/10.1175/JCLI-D-21-0941.1"
+target="_blank" style="">https://doi.org/10.1175/JCLI-D-21-0941.1</a>
 
 Diez-Sierra, J., M.
 Iturbide, J. M. Gutiérrez, J. Fernández, J. Milovak, A. S. Cofiño, E.
