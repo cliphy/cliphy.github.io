@@ -12,9 +12,13 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-*Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. Subm. to GRL.
+*Lohmann, R., C. Purr, B. Ahrens* (2023) Northern Hemisphere Atmospheric Blocking in
+CMIP6 Climate Projections using a Hybrid Index. Subm. to J. of Climate
 
-Portal, A., F. D'Andrea, P. Davini, *M.E. Hamouda*, and C. Pasquero. Atmospheric response to wintertime Tibetan Plateau cold bias in climate models. Subm. to Preprint at https://doi.org/10.5194/egusphere-2022-1499
+*Singh, P., B. Ahrens* (2023) Modeling Lightning Activity in the Third Pole Region: Performance of a
+km-Scale ICON-CLM Simulation. Subm. to Atmosphere
+
+*Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. Subm. to GRL.
 
 Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future. Preprint: [DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d)
 
