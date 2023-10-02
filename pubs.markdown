@@ -29,11 +29,17 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2023:**
 
+Alice Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda**, C. Pasquero (2023)
+Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern Asia in climate models.
+Weather Clim. Dynam., 4, 809–822. <a href="https://doi.org/10.5194/wcd-4-809-2023" target="_blank">https://doi.org/10.5194/wcd-4-809-2023</a>
+
 *Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) 
 Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology. 
 <a href="https://doi.org/10.1029/2022PA004607" target="_blank">Accepted.</a>
 
-*Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023) Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. Hydrologie und Wasserbewirtschaftung (HyWa). Accepted.
+*Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023)
+Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. 
+Hydrologie und Wasserbewirtschaftung (HyWa). Accepted.
 
 Zittis, G.,
 *B. Ahrens, A. Obermann-Hellhund*, E. Giannakis,

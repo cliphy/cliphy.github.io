@@ -223,7 +223,12 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 ## MSc theses
 
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Analysis of teleconnections using Delta-Maps / V.V. -> 14.8.23</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Nepal's first Tornado in 2019 / A.P. -> 26.3.24</span>
+-   <span
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">
+    Analysis of teleconnections using Delta-Maps / <a
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScVVoss2023.pdf"
+    target="_blank">V. Voss. 2023 </a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Diurnal cycle of precipitation along the Himalayan mountain range / 
     <a
