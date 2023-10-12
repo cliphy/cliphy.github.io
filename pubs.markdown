@@ -33,7 +33,7 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2023:**
 
-Alice Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda**, C. Pasquero (2023)
+Alice Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda*, C. Pasquero (2023)
 Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern Asia in climate models.
 Weather Clim. Dynam., 4, 809–822. <a href="https://doi.org/10.5194/wcd-4-809-2023" target="_blank">https://doi.org/10.5194/wcd-4-809-2023</a>
 
@@ -43,7 +43,10 @@ Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effect
 
 *Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023)
 Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. 
-Hydrologie und Wasserbewirtschaftung (HyWa). Accepted.
+Hydrologie und Wasserbewirtschaftung (HyWa), 67, 209--219. 
+<a href="https://www.hywa-online.de/?wpdmpro=fachartikel-hywa-heft-5-2023-ahrens-et-al" target="_blank" style="">
+DOI: 10.5675/HyWa_2023.5_2
+</a>
 
 Zittis, G.,
 *B. Ahrens, A. Obermann-Hellhund*, E. Giannakis,
@@ -70,19 +73,19 @@ Genomic profiling of climate adaptation in Aedes aegypti along an altitudinal gr
 Ecology, 32(2), 350-368. DOI: <a href="http://dx.doi.org/10.1111/mec.16752"
 target="_blank" style="">https://doi.org/10.1111/mec.16752</a>
 
+Prein, A., N. Ban,
+…, *P.K. Potapakula*, *B. Ahrens*, …, D. Chen
+(2023). Towards Ensemble-Based Kilometer-Scale Climate Simulations over
+the Third Pole Region. Climate Dynamics, 60, 4055–4081. DOI:
+<a href="https://doi.org/10.1007/s00382-022-06543-3"
+target="_blank" style="">
+https://doi.org/10.1007/s00382-022-06543-3</a>
+
 **2022:**
 
 Müller, S.K., Caillaud, C., Chan, S. ..., *Brisson, E.*, ... (2022). 
 Evaluation of Alpine-Mediterranean precipitation events in convection-permitting regional climate models using a set of tracking algorithms.
 Climate Dynamics. [DOI https://doi.org/10.1007/s00382-022-06555-z](https://link.springer.com/article/10.1007/s00382-022-06555-z/){:target="_blank" rel="noopener"}
-
-Prein, A., N. Ban,
-…, *P.K. Potapakula*, *B. Ahrens*, …, D. Chen
-(2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over
-the Third Pole Region. Climate Dynamics. DOI:
-<a href="https://doi.org/10.1007/s00382-022-06543-3"
-target="_blank" style="">
-https://doi.org/10.1007/s00382-022-06543-3</a>
 
 Portal, A, C. Pasquero, F. D'Andrea, P. Davini, *M.E. Hamouda*, G. Rivière (2022).
 Influence of Reduced Winter Land-Sea Contrast on the Midlatitude Atmospheric Circulation.
