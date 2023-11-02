@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PhD position avail."
+title:  "PhD position avail. -> filled"
 date:   2023-02-21
 ---
 
