@@ -31,7 +31,8 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 **2023:**
 
 *Singh, P., B. Ahrens* (2023) Modeling Lightning Activity in the Third Pole Region: Performance of a
-km-Scale ICON-CLM Simulation. Atmosphere. Accepted.
+km-Scale ICON-CLM Simulation. Atmosphere, 14(11), 1655.
+[DOI: 10.3390/atmos14111655](https://www.mdpi.com/2073-4433/14/11/1655){:target="_blank" rel="noopener"}
 
 Alice Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda*, C. Pasquero (2023)
 Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern Asia in climate models.
@@ -53,7 +54,7 @@ Zittis, G.,
 *D.
 Risto* et al. (2023) Maritime transport and regional climate change impacts in large EU islands and archipelagos. 
 Euro-Mediterranean Journal for Environmental Integration. 
-[DOI: 10.1007/s41207-023-00370-6](https://doi.org/10.1007/s41207-023-00370-6/){:target="_blank" rel="noopener"}
+[DOI: 10.1007/s41207-023-00370-6](https://doi.org/10.1007/s41207-023-00370-6){:target="_blank" rel="noopener"}
 
 Valmassoi, A., J.D.
 Keller, D. Kleist, S. English, *B. Ahrens*, I. Bastak Duran, E.

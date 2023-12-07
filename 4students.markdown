@@ -18,7 +18,8 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 *Links to pdfs active only in the intranet of the Goethe Univ.*
 
 ## BSc theses
-
+-   <span
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Kältewellen und Blockierende Wetterlagen / T.G. -> 29.02.24</span>
 -   <span style="font-size: 14px; font-family: Georgia;">Points on
     sphere - a Thomson problem / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScDMMohr2023.pdf"
