@@ -12,8 +12,8 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-Collier, E., N. Ban, N. Richter, *B. Ahrens**, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
- K. Sakaguchi, M. Schroeder, *P. Singh**, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
+Collier, E., N. Ban, N. Richter, *B. Ahrens*, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
+ K. Sakaguchi, M. Schroeder, *P. Singh*, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
  Sub. to ClyDy.
 
 Merz, B., V.D. Nguyen, B. Guse, L. Han, X. Guan, O. Rakovec, 
