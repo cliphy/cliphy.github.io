@@ -12,6 +12,14 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Collier, E., N. Ban, N. Richter, *B. Ahrens**, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
+ K. Sakaguchi, M. Schroeder, *P. Singh**, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
+ Sub. to ClyDy.
+
+Merz, B., V.D. Nguyen, B. Guse, L. Han, X. Guan, O. Rakovec, 
+L. Samaniego, *B. Ahrens*, S. Vorogushyn (2024) Spatial counterfactuals to explore disastrous flooding. 
+Subm. to Env. Research Letters
+
 *Lohmann, R., C. Purr, B. Ahrens* (2023) Northern Hemisphere Atmospheric Blocking in
 CMIP6 Climate Projections using a Hybrid Index. Subm. to J. of Climate
 
@@ -27,6 +35,7 @@ climate simulations: evaluation and projection. Subm. to
 ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
+**2024:**
 
 **2023:**
 
@@ -452,8 +461,7 @@ target="_blank" style="">DOI: 10.1007/s00382-017-3635-8</a> (OA)
 
 *Akhtar, N.*, J.
 Brauch, *B. Ahrens* (2018). Climate Modeling over the Mediterranean Sea:
-Impact of Resolution 
-style="font-family: Georgia; font-size: 14px;">and Ocean Coupling.
+Impact of Resolution and Ocean Coupling.
 Climate Dynamics.51, 933-948. 
 <a
 href="http://www.readcube.com/articles/10.1007/s00382-017-3570-8?author_access_token=ZgtmhRDRfqpSguk390Mut_e4RwlQNchNByi7wbcMAY7j0-2TqUX_ET7HRbuuGeiYRx8QKaz6nLuE-gtn3MOmS5lkqLEvGYOhtcyFg3I2BvhBhYNMNfo7X65fLrkA3OFbC9FhooNEZE79jR95v1UaCg%3D%3D"
