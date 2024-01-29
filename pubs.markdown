@@ -16,10 +16,6 @@ Collier, E., N. Ban, N. Richter, *B. Ahrens*, D. Chen, X. Chen, H-W. Lai, R. Leu
  K. Sakaguchi, M. Schroeder, *P. Singh*, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
  Sub. to CliDy.
 
-Merz, B., V.D. Nguyen, B. Guse, L. Han, X. Guan, O. Rakovec, 
-L. Samaniego, *B. Ahrens*, S. Vorogushyn (2024) Spatial counterfactuals to explore disastrous flooding. 
-Subm. to Env. Research Letters
-
 *Lohmann, R., C. Purr, B. Ahrens* (2023) Northern Hemisphere Atmospheric Blocking in
 CMIP6 Climate Projections using a Hybrid Index. Subm. to J. of Climate
 
@@ -36,6 +32,14 @@ ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
+
+Meijer, N., A. Licht, A. Woutersen, ..., *F. Kelemen**, et al. Proto-monsoon rainfall and greening in Central Asia due to extreme early Eocene warmth. Nat. Geosci. (2024). 
+[https://doi.org/10.1038/s41561-023-01371-4](https://doi.org/10.1038/s41561-023-01371-4){:target="_blank" rel="noopener"}
+
+Merz, B., V.D. Nguyen, B. Guse, L. Han, X. Guan, O. Rakovec, 
+L. Samaniego, *B. Ahrens*, S. Vorogushyn (2024) Spatial counterfactuals to explore disastrous flooding. 
+Env. Research Letters. 
+[DOI 10.1088/1748-9326/ad22b9](https://iopscience.iop.org/article/10.1088/1748-9326/ad22b9){:target="_blank" rel="noopener"}
 
 **2023:**
 
