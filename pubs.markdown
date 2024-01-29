@@ -33,7 +33,7 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
 
-Meijer, N., A. Licht, A. Woutersen, ..., *F. Kelemen**, et al. Proto-monsoon rainfall and greening in Central Asia due to extreme early Eocene warmth. Nat. Geosci. (2024). 
+Meijer, N., A. Licht, A. Woutersen, ..., *F. Kelemen*, et al. (2024) Proto-monsoon rainfall and greening in Central Asia due to extreme early Eocene warmth. Nat. Geosci. 
 [https://doi.org/10.1038/s41561-023-01371-4](https://doi.org/10.1038/s41561-023-01371-4){:target="_blank" rel="noopener"}
 
 Merz, B., V.D. Nguyen, B. Guse, L. Han, X. Guan, O. Rakovec, 
