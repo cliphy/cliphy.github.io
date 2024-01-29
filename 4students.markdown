@@ -224,11 +224,13 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 ## MSc theses
 
 -   <span
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Climate emulation/ B.R. -> 1.12.24</span>
+-   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Radar-based nowcasting and A.I. / B.F. -> 1.10.24</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Active vs. passive regional nesting / G.M. -> 15.10.24</span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Nepal's first Tornado in 2019 / A.P. -> 26.3.24</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Nepal's first Tornado in 2019 / A.P. -> 26.2.24</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">
     Analysis of teleconnections using Delta-Maps / <a
