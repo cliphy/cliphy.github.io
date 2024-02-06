@@ -21,8 +21,6 @@ CMIP6 Climate Projections using a Hybrid Index. Subm. to J. of Climate
 
 *Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm.
 
-Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2023) The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. Subm. to Earth's Future. Preprint: [DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d)
-
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
  (2022).  *
 Vb-cyclones and
@@ -32,6 +30,11 @@ ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
+
+Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2024) 
+The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. 
+Earth's Future. Accepted. Preprint: [DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d)
+
 
 Meijer, N., A. Licht, A. Woutersen, ..., *F. Kelemen*, et al. (2024) Proto-monsoon rainfall and greening in Central Asia due to extreme early Eocene warmth. Nat. Geosci. 
 [https://doi.org/10.1038/s41561-023-01371-4](https://doi.org/10.1038/s41561-023-01371-4){:target="_blank" rel="noopener"}
