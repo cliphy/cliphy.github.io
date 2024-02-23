@@ -31,10 +31,10 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
 
-Tarasova, L., *B. Ahrens*, A. Hoff, U. Lall (2024) 
+Tarasova, L., *B. Ahrens*, *A. Hoff*, U. Lall (2024) 
 The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. 
-Earth's Future. Accepted. Preprint: 
-[DOI: 10.22541/essoar.168121503.30229452/v1](https://essopenarchive.org/users/548067/articles/633003-the-value-of-large-scale-climatic-indices-for-monthly-forecasting-severity-of-widespread-flooding-using-dilated-convolutional-neural-networks?commit=4ada685f3d2adaf2c5d9f18f6a7dc7a8f4cf526d){:target="_blank" rel="noopener"}
+Earth's Future, 12(2).
+[https://doi.org/10.1029/2023EF003680](https://doi.org/10.1029/2023EF003680){:target="_blank" rel="noopener"}
 
 
 Meijer, N., A. Licht, A. Woutersen, ..., *F. Kelemen*, et al. (2024) Proto-monsoon rainfall and greening in Central Asia due to extreme early Eocene warmth. Nat. Geosci. 
