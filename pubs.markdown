@@ -391,10 +391,9 @@ photovoltaics and wind energy inGermany and Europe. Adv. Sci. Res., 16,
 
 Tarasova, L., R.
 Merz, A.  Kiss, S. Basso, G. Blöschl, B. Merz, A. Viglione, S. Plötner,
-B. Guse, A. Schumann, S. Fischer, B. Ahrens, F. Anwar, A. Bárdossy, P.
-Bühler, U. Haberlandt, H. Kreibich, A. Krug, D. Lun, H. Müller‐Thomy, R.
-Pidoto, C. Primo,  J. Seidel, S. Vorogushyn, L. Wietzke
-style="font-family: Georgia; font-size: 14px;"> (2019). Causative
+B. Guse, A. Schumann, S. Fischer, *B. Ahrens*, F. Anwar, A. Bárdossy, P.
+Bühler, U. Haberlandt, H. Kreibich, *A. Krug*, D. Lun, H. Müller‐Thomy, R.
+Pidoto, *C. Primo*,  J. Seidel, S. Vorogushyn, L. Wietzke (2019). Causative
 classification of river flood events. Advanced
 Review, WIREs Water. <https://doi.org/10.1002/wat2.1353> (OA)
 
