@@ -18,8 +18,10 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 *Links to pdfs active only in the intranet of the Goethe Univ.*
 
 ## BSc theses
--   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Kältewellen und Blockierende Wetterlagen / T.G. -> 29.02.24</span>
+-   <span style="font-size: 14px; font-family: Georgia;">
+    Zusammenhang zwischen Kältewellen und blockierenden Wetterlagen in Deutschland / 
+    <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScTGotsch2024.pdf"
+    target="_blank" > T. Gotsch, 2024</a></span>
 -   <span style="font-size: 14px; font-family: Georgia;">Points on
     sphere - a Thomson problem / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScDMMohr2023.pdf"
@@ -230,7 +232,11 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Active vs. passive regional nesting / G.M. -> 15.10.24</span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Nepal's first Tornado in 2019 / A.P. -> 26.2.24</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">An Analysis of Meteorological Parameters Associated with
+First Observed Tornado in Nepal using km-scale ICON-
+CLM Simulations / <a
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScAPoudel2024.pdf" target="_blank">A. Poudel,
+    2024</a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">
     Analysis of teleconnections using Delta-Maps / <a
