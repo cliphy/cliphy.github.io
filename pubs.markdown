@@ -31,6 +31,9 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
 
+*Ahrens, B.* (2024) Der Indische Monsun --- Typische Charakteristika sowie Änderungen im Klimawandel. 
+Geographische Rundschau - [Ausgabe 3/2024](https://www.westermann.de/anlage/4663337/Der-Indische-Monsun-Typische-Charakteristika-sowie-Aenderungen-im-Klimawandel){:target="_blank" rel="noopener"}
+
 Tarasova, L., *B. Ahrens*, *A. Hoff*, U. Lall (2024) 
 The value of large-scale climatic indices for monthly forecasting severity of widespread flooding using dilated convolutional neural networks. 
 Earth's Future, 12(2).
@@ -42,7 +45,7 @@ Meijer, N., A. Licht, A. Woutersen, ..., *F. Kelemen*, et al. (2024) Proto-monso
 
 Merz, B., V.D. Nguyen, B. Guse, L. Han, X. Guan, O. Rakovec, 
 L. Samaniego, *B. Ahrens*, S. Vorogushyn (2024) Spatial counterfactuals to explore disastrous flooding. 
-Env. Research Letters. 
+Env. Research Letters, 19, 044022. 
 [DOI 10.1088/1748-9326/ad22b9](https://iopscience.iop.org/article/10.1088/1748-9326/ad22b9){:target="_blank" rel="noopener"}
 
 **2023:**
