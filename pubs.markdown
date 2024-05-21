@@ -12,10 +12,6 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-Collier, E., N. Ban, N. Richter, *B. Ahrens*, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
- K. Sakaguchi, M. Schroeder, *P. Singh*, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
- Sub. to CliDy.
-
 *Lohmann, R., C. Purr, B. Ahrens* (2023) Northern Hemisphere Atmospheric Blocking in
 CMIP6 Climate Projections using a Hybrid Index. Subm. to J. of Climate
 
@@ -30,6 +26,13 @@ ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
+
+Collier, E., N. Ban, N. Richter, *B. Ahrens*, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
+ K. Sakaguchi, M. Schroeder, *P. Singh*, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
+ CliDy. Accepted.
+ 
+*Hamouda, M.*, A. Portal, C. Pasquero (2024) Polar Vortex Disruptions by High Latitude Ocean Warming. 
+Geophysical Research Letters, 51(8), e2023GL107567 [https://doi.org/10.1029/2023GL107567](https://doi.org/10.1029/2023GL107567){:target="_blank" rel="noopener"}
 
 *Ahrens, B.* (2024) Der Indische Monsun --- Typische Charakteristika sowie Änderungen im Klimawandel. 
 Geographische Rundschau - [Ausgabe 3/2024](https://www.westermann.de/anlage/4663337/Der-Indische-Monsun-Typische-Charakteristika-sowie-Aenderungen-im-Klimawandel){:target="_blank" rel="noopener"}
