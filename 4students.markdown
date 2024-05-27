@@ -18,6 +18,10 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 *Links to pdfs active only in the intranet of the Goethe Univ.*
 
 ## BSc theses
+-  <span style="font-size: 14px; font-family: Georgia;">
+    Detektion und Tracking von MCS in hochaufgelösten Klimasimulationen / 
+    <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScTGotsch2024.pdf"
+    target="_blank" > M.A. -> 27Aug24</a></span>
 -   <span style="font-size: 14px; font-family: Georgia;">
     Zusammenhang zwischen Kältewellen und blockierenden Wetterlagen in Deutschland / 
     <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScTGotsch2024.pdf"

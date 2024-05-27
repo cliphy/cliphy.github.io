@@ -57,7 +57,7 @@ Env. Research Letters, 19, 044022.
 km-Scale ICON-CLM Simulation. Atmosphere, 14(11), 1655.
 [DOI: 10.3390/atmos14111655](https://www.mdpi.com/2073-4433/14/11/1655){:target="_blank" rel="noopener"}
 
-Alice Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda*, C. Pasquero (2023)
+Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda*, C. Pasquero (2023)
 Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern Asia in climate models.
 Weather Clim. Dynam., 4, 809–822. <a href="https://doi.org/10.5194/wcd-4-809-2023" target="_blank">https://doi.org/10.5194/wcd-4-809-2023</a>
 
