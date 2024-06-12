@@ -27,9 +27,13 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
 
+Matho Lontio, S.L., Komkoua Mbienda, , A. J., 
+Choumbou P.C., Guenang G. M., Demeko Yemih P., Xing Yan, Vondou D.A., *Ahrens B.*, Deyg S., Giorgi F. (2024) Investigation of aerosol effects on diurnal cycle of precipitation amount, frequency and intensity over Central Africa.
+Clim Dyn. [https://doi.org/10.1007/s00382-024-07303-1](https://doi.org/10.1007/s00382-024-07303-1){:target="_blank" rel="noopener"}
+
 Collier, E., N. Ban, N. Richter, *B. Ahrens*, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
  K. Sakaguchi, M. Schroeder, *P. Singh*, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
- CliDy. Accepted.
+ Clim Dyn. [https://doi.org/10.1007/s00382-024-07291-2](https://doi.org/10.1007/s00382-024-07291-2){:target="_blank" rel="noopener"}
  
 *Hamouda, M.*, A. Portal, C. Pasquero (2024) Polar Vortex Disruptions by High Latitude Ocean Warming. 
 Geophysical Research Letters, 51(8), e2023GL107567 [https://doi.org/10.1029/2023GL107567](https://doi.org/10.1029/2023GL107567){:target="_blank" rel="noopener"}
