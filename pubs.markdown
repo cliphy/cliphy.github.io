@@ -27,6 +27,14 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
 
+*Essa, Y.H*, and Madonna F. (2024) Estimating climate extreme indices and the related uncertainties using U.S. Climate Reference Network (USCRN) near-surface temperature. 
+IL NUOVO CIMENTO C. (accepted)
+
+Toma, V. de, D. Ciani, *Y.H. Essa*, C. Yang, V. Artale, A. Pisano, D. Cavaliere, R. Santoleri, A. Storto (2024)
+Skin sea surface temperature schemes in coupled ocean-atmosphere modelling: the impact of chlorophyll-interactive e-folding depth.
+GMD, 17, 5145-5165. 
+[https://doi.org/10.5194/gmd-17-5145-2024](https://doi.org/10.5194/gmd-17-5145-2024){:target="_blank" rel="noopener"}
+
 Matho Lontio, S.L., Komkoua Mbienda, , A. J., 
 Choumbou P.C., Guenang G. M., Demeko Yemih P., Xing Yan, Vondou D.A., *Ahrens B.*, Deyg S., Giorgi F. (2024) Investigation of aerosol effects on diurnal cycle of precipitation amount, frequency and intensity over Central Africa.
 Clim Dyn. [https://doi.org/10.1007/s00382-024-07303-1](https://doi.org/10.1007/s00382-024-07303-1){:target="_blank" rel="noopener"}
