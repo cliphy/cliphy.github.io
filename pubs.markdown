@@ -12,6 +12,12 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2024) Assessing Sources of Climate Model Discrepancies in Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
+Subm. to The Cryosphere
+
+P. Berrocal, ... *B. Ahrens* ... (2024) Response of the Mediterranean Sea surface circulation at various global warming levels: A multi-model approach. 
+Subm. to GRL
+
 *Lohmann, R., C. Purr, B. Ahrens* (2023) Northern Hemisphere Atmospheric Blocking in
 CMIP6 Climate Projections using a Hybrid Index. Subm. to J. of Climate
 
