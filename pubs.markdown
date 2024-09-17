@@ -34,7 +34,8 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 **2024:**
 
 *Essa, Y.H*, and Madonna F. (2024) Estimating climate extreme indices and the related uncertainties using U.S. Climate Reference Network (USCRN) near-surface temperature. 
-IL NUOVO CIMENTO C. (accepted)
+IL NUOVO CIMENTO C., 47 C, 5,310. 
+[Doi: 10.1393/ncc/i2024-24310-x](https://en.sif.it/journals/sif/ncc/econtents/2024/047/05/article/61){:target="_blank" rel="noopener"}
 
 Toma, V. de, D. Ciani, *Y.H. Essa*, C. Yang, V. Artale, A. Pisano, D. Cavaliere, R. Santoleri, A. Storto (2024)
 Skin sea surface temperature schemes in coupled ocean-atmosphere modelling: the impact of chlorophyll-interactive e-folding depth.

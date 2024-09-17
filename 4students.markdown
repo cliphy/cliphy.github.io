@@ -22,9 +22,9 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 Elevation dependent warming in the Greater Alpine Region between 1985-2019 / MH -> 24Oct24
     </span>
 -  <span style="font-size: 14px; font-family: Georgia;">
-    Detektion und Tracking von MCS in hochaufgelösten Klimasimulationen / 
-    <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScTGotsch2024.pdf"
-    target="_blank" > M.A. -> 26Aug24</a></span>
+    Detektion und Tracking von Mesoskaligen Konvektiven Systemen in hochaufgelösten Klimamodellen / 
+    <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMAssmann2024.pdf"
+    target="_blank" > M. Aßmann, 2024</a></span>
 -   <span style="font-size: 14px; font-family: Georgia;">
     Zusammenhang zwischen Kältewellen und blockierenden Wetterlagen in Deutschland / 
     <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScTGotsch2024.pdf"
@@ -237,7 +237,7 @@ Elevation dependent warming in the Greater Alpine Region between 1985-2019 / MH 
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Radar-based nowcasting and A.I. / B.F. -> 1.10.24</span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Active vs. passive regional nesting / G.M. -> 15.10.24</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Active vs. passive regional nesting / G.M. -> 12.3.24</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">An Analysis of Meteorological Parameters Associated with
 First Observed Tornado in Nepal using km-scale ICON-
