@@ -32,8 +32,7 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 *Lohmann, R., C. Purr, B. Ahrens* (2024) Northern Hemisphere Atmospheric Blocking in CMIP6 Climate Projections using a Hybrid Index.
 J. of Climate. Accepted.
-
-<--- Blocking, DFG SPATE --->
+<!-- Blocking, DFG SPATE -->
 
 *Essa, Y.H*, and Madonna F. (2024) Estimating climate extreme indices and the related uncertainties using U.S. Climate Reference Network (USCRN) near-surface temperature. 
 IL NUOVO CIMENTO C., 47 C, 5,310. 
@@ -78,7 +77,7 @@ Env. Research Letters, 19, 044022.
 km-Scale ICON-CLM Simulation. Atmosphere, 14(11), 1655.
 [DOI: 10.3390/atmos14111655](https://www.mdpi.com/2073-4433/14/11/1655){:target="_blank" rel="noopener"}
 
-# TP-Change
+<!-- TP-Change -->
 
 Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda*, C. Pasquero (2023)
 Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern Asia in climate models.
