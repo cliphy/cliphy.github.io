@@ -31,7 +31,8 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 **2024:**
 
 *Lohmann, R., C. Purr, B. Ahrens* (2024) Northern Hemisphere Atmospheric Blocking in CMIP6 Climate Projections using a Hybrid Index.
-J. of Climate. Accepted.
+J. of Climate. 
+[https://doi.org/10.1175/JCLI-D-23-0589.1](https://doi.org/10.1175/JCLI-D-23-0589.1){:target="_blank" rel="noopener"}
 <!-- Blocking, DFG SPATE -->
 
 *Essa, Y.H*, and Madonna F. (2024) Estimating climate extreme indices and the related uncertainties using U.S. Climate Reference Network (USCRN) near-surface temperature. 
@@ -50,7 +51,8 @@ Clim Dyn. [https://doi.org/10.1007/s00382-024-07303-1](https://doi.org/10.1007/s
 Collier, E., N. Ban, N. Richter, *B. Ahrens*, D. Chen, X. Chen, H-W. Lai, R. Leung, L. Li, T. Ou, P.K. Pothapakula, E. Potter, A. F. Prein,
  K. Sakaguchi, M. Schroeder, *P. Singh*, S. Sobolowski, S. Sugimoto, J. Tang, H. Yu, C. Ziska (2024) The First Ensemble of Kilometre-Scale Simulations of a Hydrological Year over the Third Pole. 
  Clim Dyn. [https://doi.org/10.1007/s00382-024-07291-2](https://doi.org/10.1007/s00382-024-07291-2){:target="_blank" rel="noopener"}
- 
+<!-- TP-Change -->
+
 *Hamouda, M.*, A. Portal, C. Pasquero (2024) Polar Vortex Disruptions by High Latitude Ocean Warming. 
 Geophysical Research Letters, 51(8), e2023GL107567 [https://doi.org/10.1029/2023GL107567](https://doi.org/10.1029/2023GL107567){:target="_blank" rel="noopener"}
 
@@ -76,7 +78,6 @@ Env. Research Letters, 19, 044022.
 *Singh, P., B. Ahrens* (2023) Modeling Lightning Activity in the Third Pole Region: Performance of a
 km-Scale ICON-CLM Simulation. Atmosphere, 14(11), 1655.
 [DOI: 10.3390/atmos14111655](https://www.mdpi.com/2073-4433/14/11/1655){:target="_blank" rel="noopener"}
-
 <!-- TP-Change -->
 
 Portal, A., F. D'Andrea, P. Davini, *M. E. Hamouda*, C. Pasquero (2023)
@@ -126,6 +127,7 @@ the Third Pole Region. Climate Dynamics, 60, 4055–4081. DOI:
 <a href="https://doi.org/10.1007/s00382-022-06543-3"
 target="_blank" style="">
 https://doi.org/10.1007/s00382-022-06543-3</a>
+<!-- TP-Change -->
 
 **2022:**
 
