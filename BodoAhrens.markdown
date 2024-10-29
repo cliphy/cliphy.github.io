@@ -70,7 +70,7 @@ Chair Scientific Advisory Board of the COSMO-CLM Community (2010-13)
 
 Project area leader of the LOEWE Biodiversity and Climate Research Centre (2008-14)
 
-Advisory boards: CLM Community for regional climate modeling (since 2009); Hessian Centre on Climate Change, HLUG (since 2009); International Hydrological Programme (IHP/HWRP; since 2014)
+Advisory boards: CLM Community for regional climate modeling (since 2009); Hessian Centre on Climate Change, HLUG (since 2009); International Hydrological Programme (IHP/HWRP; since 2014); Zentrum für Geo, BW (2015-24)
 
 Member of MedCORDEX Steering Committee (2015-); Management Committee CA19109 -- Medcyclones (2020-24)
 

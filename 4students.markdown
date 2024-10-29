@@ -22,6 +22,10 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 Elevation dependent warming in the Greater Alpine Region between 1985-2019 / MH -> 24Oct24
     </span>
 -  <span style="font-size: 14px; font-family: Georgia;">
+	Temperaturverteilung auf Planeten und Exoplaneten / 
+	<a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMMielchen2024.pdf"
+    target="_blank" > M. Mielchen, 2024</a></span>
+-  <span style="font-size: 14px; font-family: Georgia;">
     Detektion und Tracking von Mesoskaligen Konvektiven Systemen in hochaufgelösten Klimamodellen / 
     <a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScMAssmann2024.pdf"
     target="_blank" > M. Aßmann, 2024</a></span>

@@ -12,6 +12,9 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent Climate Change in Mountain Environments.
+
+
 *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2024) Assessing Sources of Climate Model Discrepancies in Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere
 
