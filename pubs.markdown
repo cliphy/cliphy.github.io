@@ -18,9 +18,6 @@ Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent 
 *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2024) Assessing Sources of Climate Model Discrepancies in Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere
 
-P. Berrocal, ... *B. Ahrens* ... (2024) Response of the Mediterranean Sea surface circulation at various global warming levels: A multi-model approach. 
-Subm. to GRL
-
 *Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm.
 
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
@@ -32,6 +29,13 @@ ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
+
+I. M. Parras-Berrocal, I.M., R. Waldman, F. Sevault, S. Somot, N. Gonzalez, *B. Ahrens**, 
+A. Anav, V. Djurdjević, S. Gualdi, *M. E. Hamouda**, L. Li, P. Lionello, G. Sannino, D. V. Sein (2024) 
+Response of the Mediterranean Sea surface circulation at various global warming levels: A multi-model approach. 
+Geophysical Research Letters, 51, e2024GL111695-
+[https://doi.org/10.1029/2024GL111695](https://doi.org/10.1029/2024GL111695){:target="_blank" rel="noopener"}
+<!-- Med-CORDEX -->
 
 *Lohmann, R., C. Purr, B. Ahrens* (2024) Northern Hemisphere Atmospheric Blocking in CMIP6 Climate Projections using a Hybrid Index.
 J. of Climate. 
