@@ -30,10 +30,10 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2024:**
 
-I. M. Parras-Berrocal, I.M., R. Waldman, F. Sevault, S. Somot, N. Gonzalez, *B. Ahrens**, 
-A. Anav, V. Djurdjević, S. Gualdi, *M. E. Hamouda**, L. Li, P. Lionello, G. Sannino, D. V. Sein (2024) 
+I. M. Parras-Berrocal, I.M., R. Waldman, F. Sevault, S. Somot, N. Gonzalez, *B. Ahrens*, 
+A. Anav, V. Djurdjević, S. Gualdi, *M. E. Hamouda*, L. Li, P. Lionello, G. Sannino, D. V. Sein (2024) 
 Response of the Mediterranean Sea surface circulation at various global warming levels: A multi-model approach. 
-Geophysical Research Letters, 51, e2024GL111695-
+Geophysical Research Letters, 51, e2024GL111695.
 [https://doi.org/10.1029/2024GL111695](https://doi.org/10.1029/2024GL111695){:target="_blank" rel="noopener"}
 <!-- Med-CORDEX -->
 
@@ -209,7 +209,7 @@ Boundary Conditions in Idealised Experiments. Journal of Advances in
 Modeling Earth Systems, 13(12) <http://doi.org/10.1029/2021MS002519> 
 
 Sørland, S. L.,
-Brogli, R., *Pothapakula, P. K.**, Russo, E., Van de Walle, J., *Ahrens,
+Brogli, R., *Pothapakula, P. K.*, Russo, E., Van de Walle, J., *Ahrens,
 B*., Anders, I., Bucchignani, E., Davin, E. L., Demory, M.-E., Dosio,
 A., Feldmann, H., Früh, B., Geyer, B., Keuler, K., Lee, D., Li, D., van
 Lipzig, N. P. M., Min, S.-K., Panitz, H.-J., Rockel, B., Schär, C.,
