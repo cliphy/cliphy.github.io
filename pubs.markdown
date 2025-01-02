@@ -12,7 +12,7 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-*Rist, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. 
+*Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. 
 Subm. to CliDyn
 
 Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent Climate Change in Mountain Environments.
