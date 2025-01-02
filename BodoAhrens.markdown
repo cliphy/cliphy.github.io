@@ -4,7 +4,7 @@ title: Bodo Ahrens
 permalink: /BodoAhrens/
 ---
 
-![fig](./figs/ba.png)
+![fig](./figs/bodo-ahrens.jpg)
 
 ## Contact
 
