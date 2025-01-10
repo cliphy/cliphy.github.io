@@ -31,6 +31,11 @@ climate simulations: evaluation and projection. Subm. to
 ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
+**2025:**
+
+Phuyal, P., ..., *B. Ahrens*, ... (2025) On people’s perceptions of climate change and its impacts in a hotspot of global warming.
+PLOS ONE, cond. accepted.
+
 **2024:**
 
 I. M. Parras-Berrocal, I.M., R. Waldman, F. Sevault, S. Somot, N. Gonzalez, *B. Ahrens*, 
