@@ -13,13 +13,13 @@ group members are *italicized*)
 Under Revision:**
 
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. 
-Subm. to CliDyn
+Subm. to ESEV
 
 Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent Climate Change in Mountain Environments.
 
 
-*Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2024) Assessing Sources of Climate Model Discrepancies in Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
-Subm. to The Cryosphere
+*Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
+Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"}
 
 *Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm.
 
