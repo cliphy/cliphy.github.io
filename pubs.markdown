@@ -12,6 +12,9 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Rameshan, Arathi, P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
+Climate Change in the Third Pole Region. Subm. to Atmosphere
+
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. 
 Subm. to ESEV
 
@@ -33,8 +36,10 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
 
-Phuyal, P., ..., *B. Ahrens*, ... (2025) On people’s perceptions of climate change and its impacts in a hotspot of global warming.
-PLOS ONE, cond. accepted.
+Phuyal, P., I.M. Kramer, I. Kadel, E. Wouters, A. Magdeburg, D.A. Groneberg, U. Kuch, *B. Ahrens**, M.L. Dhimal, M. Dhimal, R. Müller 
+(2025) On people’s perceptions of climate change and its impacts in a hotspot of global warming.
+PLOS ONE, 20(2): e0317786.
+[https://doi.org/10.1371/journal.pone.0317786](https://doi.org/10.1371/journal.pone.0317786){:target="_blank" rel="noopener"}
 
 **2024:**
 
