@@ -242,7 +242,7 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Nowcasting Intense Local Precipitation Using
 a Multi-Input Machine Learning Model / <a
-    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScBFrank.pdf" target="_blank">B. Frank, 2025</a></span>
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScBFrank2025.pdf" target="_blank">B. Frank, 2025</a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Active vs. passive regional nesting / G.M. -> 12.3.24</span>
 -   <span
