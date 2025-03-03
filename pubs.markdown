@@ -12,6 +12,9 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. 
+Subm. to Climate Risk Management
+
 *Rameshan, Arathi, P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
 Climate Change in the Third Pole Region. Subm. to Atmosphere
 
