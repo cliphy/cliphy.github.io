@@ -15,14 +15,10 @@ Under Revision:**
 Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. 
 Subm. to Climate Risk Management
 
-*Rameshan, Arathi, P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
-Climate Change in the Third Pole Region. Subm. to Atmosphere
-
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. 
 Subm. to ESEV
 
 Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent Climate Change in Mountain Environments.
-
 
 *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"}
@@ -39,7 +35,11 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
 
-Phuyal, P., I.M. Kramer, I. Kadel, E. Wouters, A. Magdeburg, D.A. Groneberg, U. Kuch, *B. Ahrens**, M.L. Dhimal, M. Dhimal, R. Müller 
+*Rameshan, A., P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
+Climate Change in the Third Pole Region. Atmosphere. Accepted.
+<!-- DFG TPChange -->
+
+Phuyal, P., I.M. Kramer, I. Kadel, E. Wouters, A. Magdeburg, D.A. Groneberg, U. Kuch, *B. Ahrens*, M.L. Dhimal, M. Dhimal, R. Müller 
 (2025) On people’s perceptions of climate change and its impacts in a hotspot of global warming.
 PLOS ONE, 20(2): e0317786.
 [https://doi.org/10.1371/journal.pone.0317786](https://doi.org/10.1371/journal.pone.0317786){:target="_blank" rel="noopener"}
