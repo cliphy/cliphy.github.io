@@ -36,7 +36,8 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 **2025:**
 
 *Rameshan, A., P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
-Climate Change in the Third Pole Region. Atmosphere. Accepted.
+Climate Change in the Third Pole Region. Atmosphere. 16(3), 327.
+[https://doi.org/10.3390/atmos16030327](https://doi.org/10.3390/atmos16030327){:target="_blank" rel="noopener"}
 <!-- DFG TPChange -->
 
 Phuyal, P., I.M. Kramer, I. Kadel, E. Wouters, A. Magdeburg, D.A. Groneberg, U. Kuch, *B. Ahrens*, M.L. Dhimal, M. Dhimal, R. Müller 
@@ -1118,7 +1119,6 @@ secondary information. Advances in Science and Research. 4, 29–35,
 2010. <a href="http://www.adv-sci-res.net/4/29/2010/asr-4-29-2010.pdf"
 style=""
 title="http://www.adv-sci-res.net/4/29/2010/asr-4-29-2010.pdf">www.adv-sci-res.net/4/29/2010/</a>
-class="style_8">  
 
 
 *Dobler, A., B.
