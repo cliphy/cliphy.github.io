@@ -236,7 +236,8 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 </span>
 
 ## MSc theses
-
+-   <span
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">MLT-based obs. operator/ M.B. -> 1.2.26</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Climate emulation/ B.R. -> 1.12.24</span>
 -   <span
@@ -244,7 +245,10 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 a Multi-Input Machine Learning Model / <a
     href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/MScBFrank2025.pdf" target="_blank">B. Frank, 2025</a></span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Active vs. passive regional nesting / G.M. -> 12.3.24</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Online nesting with global nudging versus offline nesting in ICON / 
+    <a
+    href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/25MScGMenzel.pdf" target="_blank">G. Menzel,
+    2025</a></span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">An Analysis of Meteorological Parameters Associated with
 First Observed Tornado in Nepal using km-scale ICON-
