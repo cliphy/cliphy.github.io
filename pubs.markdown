@@ -12,6 +12,10 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
+Subm. to ACP. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
+<!-- TP-Change -->
+
 Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. 
 Subm. to Climate Risk Management
 
