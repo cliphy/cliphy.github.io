@@ -44,11 +44,11 @@ Attended special courses: 1992: Summer-school on Nonlinear Magnetohydrodynamic P
 
 ### Professional positions held:
 
-2016 - present Full Professor (W3) for Mesoscale Meteorology and Climate, Goethe-University Frankfurt/Main, Germany
+2016 - present Full Professor (W3) for Mesoscale Meteorology and Climate, Goethe University Frankfurt/Main, Germany
 
 2011 - 2016 Consultant for Senckenberg Biodiversität und Klima Forschungszentrum, Frankfurt am Main, Germany
 
-2006 - 2016 Full Professor (W2) for Mesoscale Meteorology and Climate, Goethe-University Frankfurt/Main, Germany
+2006 - 2016 Full Professor (W2) for Mesoscale Meteorology and Climate, Goethe University Frankfurt/Main, Germany
 
 2005 - 2006 Senior Scientist, Institute for Atmospheric and Climate Sciences, ETH Zurich, Switzerland
 
