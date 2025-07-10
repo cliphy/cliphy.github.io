@@ -12,6 +12,9 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
+climate scenarios. Subm. to ERL
+
 Jadhav, H., *P. Singh, B. Ahrens*, J.Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. [Preprint.](https://www.preprints.org/manuscript/202505.1326/v1){:target="_blank" rel="noopener"}
 
 *Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
@@ -20,9 +23,6 @@ Subm. to ACP. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://do
 
 Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. 
 Subm. to Climate Risk Management
-
-*Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. 
-Subm. to ESEV
 
 Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent Climate Change in Mountain Environments.
 
@@ -40,6 +40,10 @@ ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
+
+*Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. Accepted for publication in
+Earth Systems and Environment
+<!-- CSC GUF -->
 
 *Rameshan, A., P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
 Climate Change in the Third Pole Region. Atmosphere. 16(3), 327.
