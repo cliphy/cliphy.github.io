@@ -12,6 +12,8 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
+
 Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
 climate scenarios. Subm. to ERL
 
