@@ -12,6 +12,8 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Lohmann, R., C. Purr, B. Ahrens* (2025) Atmospheric blocking and climate extremes in Germany in present and future climate. Subm. to NHESS
+
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
 
 Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
@@ -44,7 +46,7 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 **2025:**
 
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. Accepted for publication in
-Earth Systems and Environment
+Earth Systems and Environment. [DOI: 10.1007/s41748-025-00728-6](https://link.springer.com/article/10.1007/s41748-025-00728-6){:target="_blank" rel="noopener"}
 <!-- CSC GUF -->
 
 *Rameshan, A., P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
