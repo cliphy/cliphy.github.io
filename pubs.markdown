@@ -12,6 +12,13 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Singh, P.*, ..., *B. Ahrens* (2025) Nepal's First Recorded Tornado: Its Effect on the Upper Troposphere and Lower Stratosphere's Moisture. Subm. to SOLA
+<!-- TP-Change, DKRZ -->
+
+*Singh, P.*, *B. Ahrens* (2025) Impact of extreme events on the UTLS water vapour over the Third Pole in multi-scale ICON-CLM simulations.
+Subm. to AR.
+<!-- TP-Change, DKRZ -->
+
 *Lohmann, R., C. Purr, B. Ahrens* (2025) Atmospheric blocking and climate extremes in Germany in present and future climate. Subm. to NHESS
 
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
@@ -21,7 +28,7 @@ climate scenarios. Subm. to ERL
 
 *Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
 Subm. to ACP. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
-<!-- TP-Change -->
+<!-- TP-Change, DKRZ -->
 
 Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. 
 Subm. to Climate Risk Management
@@ -43,7 +50,7 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
 
-Jadhav, H., *P. Singh, B. Ahrens*, J.Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. [https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
+Jadhav, H., *P. Singh, B. Ahrens*, J. Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. [https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
 <!-- TP-Change -->
 
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. Accepted for publication in
