@@ -19,7 +19,9 @@ Under Revision:**
 Subm. to AR.
 <!-- TP-Change, DKRZ -->
 
-*Lohmann, R., C. Purr, B. Ahrens* (2025) Atmospheric blocking and climate extremes in Germany in present and future climate. Subm. to NHESS
+*Lohmann, R., C. Purr, B. Ahrens* (2025) Atmospheric blocking and climate extremes in Germany in present and future climate. Subm. to NHESS. 
+[Preprint: EGUsphere](https://doi.org/10.5194/egusphere-2025-3670){:target="_blank" rel="noopener"}
+<!-- HLNUG, ..., DFG SPATE, DISTENDER -->
 
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
 
