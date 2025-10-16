@@ -12,6 +12,10 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Kelemen, F., R. Lohmann*, J. Zhu, *B. Ahrens* (2025) Role of paleogeography on large-scale circulation during the early Eocene. Subm. to Climate of the Past. 
+[Preprint: https://doi.org/10.5194/egusphere-2025-4923](https://doi.org/10.5194/egusphere-2025-4923){:target="_blank" rel="noopener"}
+<!-- VeWA, DKRZ -->
+
 *Singh, P.*, ..., *B. Ahrens* (2025) Nepal's First Recorded Tornado: Its Effect on the Upper Troposphere and Lower Stratosphere's Moisture. Subm. to SOLA
 <!-- TP-Change, DKRZ -->
 
@@ -21,12 +25,10 @@ Subm. to AR.
 
 *Lohmann, R., C. Purr, B. Ahrens* (2025) Atmospheric blocking and climate extremes in Germany in present and future climate. Subm. to NHESS. 
 [Preprint: EGUsphere](https://doi.org/10.5194/egusphere-2025-3670){:target="_blank" rel="noopener"}
-<!-- HLNUG, ..., DFG SPATE, DISTENDER -->
+<!-- HLNUG, ..., DFG SPATE, DISTENDER, DKRZ -->
 
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
 
-Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
-climate scenarios. Subm. to ERL
 
 *Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
 Subm. to ACP. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
@@ -35,12 +37,12 @@ Subm. to ACP. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://do
 Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. 
 Subm. to Climate Risk Management
 
-Pepin, N., ..., *B. Ahrens*, ..., *A. Rameshan*, ... (2024) Elevation Dependent Climate Change in Mountain Environments.
+
 
 *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"}
 
-*Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm.
+<!-- *Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm. -->
 
 *Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
  (2022).  *
@@ -52,10 +54,17 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
 
+Pepin, N., M. Apple, J. Knowles, S. Terzago, E. Arnone, L. Hänchen, A. Napoli, E. Potter, J. Steiner, S. N. Williamson, *B. Ahrens*, T. Dhar, A.P. Dimri, E. Palazzi, *A. Rameshan*, 
+N. Salzmann, M. Shahgedanova, J. de Deus Vidal
+Junior, D. Zardi (2025) Elevation Dependent Climate Change in Mountain Environments. Nature Reviews Earth & Environment. Accepted.
+
+Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
+climate scenarios. Env. Research Letters. Cond. Accepted
+
 Jadhav, H., *P. Singh, B. Ahrens*, J. Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. [https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
 <!-- TP-Change -->
 
-*Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing. Accepted for publication in
+*Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing.
 Earth Systems and Environment. [DOI: 10.1007/s41748-025-00728-6](https://link.springer.com/article/10.1007/s41748-025-00728-6){:target="_blank" rel="noopener"}
 <!-- CSC GUF -->
 
@@ -521,7 +530,7 @@ href="https://link.springer.com/content/pdf/10.1007%2Fs00382-018-4325-x.pdf">DOI
 Ahrens*
 (2018). Mistral and Tramontane Simulations with Changing Resolution of
 Orography. Atm. Science Letters, 19(9):e848. DOI: 
-[10.1002/asl.848](https://doi.org/10.1002/asl.848) (OA) 
+[10.1002/asl.848](https://doi.org/10.1002/asl.848){:target="_blank" rel="noopener"} (OA) 
 
 Bajnai, D., J. Fiebig, A. Tomašových, S. Milner Garcia, C. Rollion-Bard, J. Raddatz, N.
 Löffler, *C. Primo-Ramos*, U. Brand
