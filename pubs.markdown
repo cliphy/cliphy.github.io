@@ -29,12 +29,6 @@ Subm. to AR.
 
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
 
-
-*Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
-Subm. to ACP. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
-<!-- TP-Change, DKRZ -->
-
-
 *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"}
 
@@ -50,7 +44,11 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
 
-Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. Climate Services. Accepted.
+*Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
+ACP. Accepted. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
+<!-- TP-Change, DKRZ -->
+
+Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. Climate Services 40 100623 1-19. [https://doi.org/10.1016/j.cliser.2025.100623](https://doi.org/10.1016/j.cliser.2025.100623){:target="_blank" rel="noopener"}.
 <!-- DISTENDER -->
 
 Pepin, N., M. Apple, J. Knowles, S. Terzago, E. Arnone, L. Hänchen, A. Napoli, E. Potter, J. Steiner, S. N. Williamson, *B. Ahrens*, T. Dhar, A.P. Dimri, E. Palazzi, *A. Rameshan*, 
@@ -61,7 +59,7 @@ Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jor
 climate scenarios. Env. Research Letters. Accepted
 
 Jadhav, H., *P. Singh, B. Ahrens*, J. Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. [https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
-<!-- TP-Change -->
+<!-- TP-Change, DKRZ -->
 
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing.
 Earth Systems and Environment. [DOI: 10.1007/s41748-025-00728-6](https://link.springer.com/article/10.1007/s41748-025-00728-6){:target="_blank" rel="noopener"}

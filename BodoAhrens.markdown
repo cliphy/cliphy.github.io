@@ -90,4 +90,4 @@ Convener Interfacing hydrological and meteorological models in forecasting syste
 
 Organizer/Scientific Committee WMO QPE/QPF III Conference, Nanjing, 18-22 Oct. 2010,  CLM COMMUNITY ASSEMBLY 2014, BiK-F/Goethe Univ. Frankfurt,  2-5 Sep. 2014, 11. Deutsche Klimatagung, 5-8 Mar. 2018, WCRP-WWRP Symposium on Data Assimilation and Reanalysis, Bonn (virtual), 13-17 Sep. 2021 
 
-Chairman of the examination boards and coordinator of the study programmes Diplom Meteorology (2007--2018) and BSc Meteorology (since 2014)
+Chairman of the examination boards and coordinator of the study programmes Diplom Meteorology (2007--2018) and BSc Meteorology (2014--2023)
