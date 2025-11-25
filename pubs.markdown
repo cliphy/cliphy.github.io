@@ -27,7 +27,7 @@ Subm. to AR.
 [Preprint: EGUsphere](https://doi.org/10.5194/egusphere-2025-3670){:target="_blank" rel="noopener"}
 <!-- HLNUG, ..., DFG SPATE, DISTENDER, DKRZ -->
 
-*Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS 
+*Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3532/){:target="_blank" rel="noopener"}
 
 *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"}
@@ -44,6 +44,9 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 
 **2025:**
 
+*Zhicheng Luo, Risto, D.*, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
+Subm. to The Cryosphere. Accepted
+
 *Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
 ACP. Accepted. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
@@ -53,12 +56,16 @@ Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D.
 
 Pepin, N., M. Apple, J. Knowles, S. Terzago, E. Arnone, L. Hänchen, A. Napoli, E. Potter, J. Steiner, S. N. Williamson, *B. Ahrens*, T. Dhar, A.P. Dimri, E. Palazzi, *A. Rameshan*, 
 N. Salzmann, M. Shahgedanova, J. de Deus Vidal
-Junior, D. Zardi (2025) Elevation Dependent Climate Change in Mountain Environments. Nature Reviews Earth & Environment. Accepted.
+Junior, D. Zardi (2025) Elevation Dependent Climate Change in Mountain Environments. Nature Reviews Earth & Environment. 
+[https://doi.org/10.1038/s43017-025-00740-4](https://doi.org/10.1038/s43017-025-00740-4){:target="_blank" rel="noopener"}
+
 
 Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
-climate scenarios. Env. Research Letters. Accepted
+climate scenarios. Env. Research Letters. 20 114068. 
+[DOI 10.1088/1748-9326/ae15a5](https://iopscience.iop.org/article/10.1088/1748-9326/ae15a5/meta){:target="_blank" rel="noopener"}
 
-Jadhav, H., *P. Singh, B. Ahrens*, J. Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. [https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
+Jadhav, H., *P. Singh, B. Ahrens*, J. Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. 
+[https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
 
 *Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing.
@@ -457,7 +464,7 @@ regional climate simulation. Atmosphere, 10(9), 537. 
 C. Dieterich, *B. Ahrens* (2019). European Marginal
 Seas in a regional atmosphere-ocean coupled model and their impact on
 Vb-cyclones and associated precipitation. Climate Dynamics, 53,
-5967–5984. <https://doi.org/10.1007/s00382-019-04906-x/> (OA)
+5967–5984. [https://doi.org/10.1007/s00382-019-04906-x](https://link.springer.com/article/10.1007/s00382-019-04906-x){:target="_blank" rel="noopener"} 
 
 *Leps, N.*, J.
 Brauch, *B. Ahrens*

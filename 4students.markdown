@@ -19,6 +19,9 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 
 ## BSc theses
 -  <span style="font-size: 14px; font-family: Georgia;">
+	Synoptische Untersuchungen von Tagen mit Starkwind/Böen an hessischen Wetterstationen / 
+	HB -> 18.2.26</span>
+-  <span style="font-size: 14px; font-family: Georgia;">
 	Elevation dependent warming in the Greater Alpine Region between 1985-2019 / 
 	<a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScDHufnagel2024.pdf"
     target="_blank" > D. Hufnagel, 2024</a></span>
@@ -236,6 +239,10 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 </span>
 
 ## MSc theses
+-   <span
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Mass balance/ J.H. -> 5.26</span>
+-   <span
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Evaporation/ M.M. -> 11.26</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">MLT-based obs. operator/ M.B. -> 1.2.26</span>
 -   <span
