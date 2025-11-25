@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper on Elevation-dependent climate change in NREE"
+title:  "Paper on Elevation-Dependent Climate Change in NREE"
 date:   2025-11-25
 ---
 
