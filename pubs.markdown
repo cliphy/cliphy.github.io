@@ -29,8 +29,9 @@ Subm. to AR.
 
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3532/){:target="_blank" rel="noopener"}
 
-*Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
-Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"}
+<!-- *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
+Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"} -->
+<!-- CAS, IDEA S4S FS-SF, DKRZ -->
 
 <!-- *Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm. -->
 
@@ -45,7 +46,8 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 **2025:**
 
 *Zhicheng Luo, Risto, D.*, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
-Subm. to The Cryosphere. Accepted
+The Cryosphere, 19, 6547–6576. [https://doi.org/10.5194/tc-19-6547-2025](https://doi.org/10.5194/tc-19-6547-2025){:target="_blank" rel="noopener"}
+<!-- CAS, IDEA S4S FS-SF, DKRZ -->
 
 *Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
 ACP. Accepted. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
