@@ -9,6 +9,9 @@ Group in Jan. 2023 - left to right: Prashant Singh, Abhiyan Poudel, Bodo Ahrens,
 
 ## Catalog of the group’s submitted PhD theses
 
+Danny S. Risto (2025) Snow Representation in Seasonal Forecasts and Climate Simulations: Sensitivities of
+Seasonal Snow Simulation and Impact on Frozen Soils
+
 Praveen K. Pothapakula (2022) Exploring Information Exchange in Climate System and Climate Models
 
 Christopher Purr (2022) Towards the Intensification of Convective Rain Events with Rising Temperatures in Germany

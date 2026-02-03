@@ -12,6 +12,14 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Lunt, D.J., ... *F. Kelemen*, ... (2026) DeepMIP-Eocene-p2: Experimental design for Phase 2 of the early Eocene component of the the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Eocene). Subm. to GMD. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/){:target="_blank" rel="noopener"}
+
+*Parmar, M.* et al. (2026) Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM. Subm. to TC
+
+Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipitation Biases in
+Convection-parameterizing Regional Climate Models:
+Insights from the Kilometer-scale. Subm. to GRL
+
 *Kelemen, F., R. Lohmann*, J. Zhu, *B. Ahrens* (2025) Role of paleogeography on large-scale circulation during the early Eocene. Subm. to Climate of the Past. 
 [Preprint: https://doi.org/10.5194/egusphere-2025-4923](https://doi.org/10.5194/egusphere-2025-4923){:target="_blank" rel="noopener"}
 <!-- VeWA, DKRZ -->
@@ -49,8 +57,7 @@ target="_blank">https://doi.org/10.5194/esd-2022-24</a>
 The Cryosphere, 19, 6547–6576. [https://doi.org/10.5194/tc-19-6547-2025](https://doi.org/10.5194/tc-19-6547-2025){:target="_blank" rel="noopener"}
 <!-- CAS, IDEA S4S FS-SF, DKRZ -->
 
-*Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region.
-ACP. Accepted. [Preprint: https://doi.org/10.5194/egusphere-2025-1728](https://doi.org/10.5194/egusphere-2025-1728){:target="_blank" rel="noopener"}
+*Singh, P.*, *B. Ahrens* (2025) Lightning-intense deep convective transport of water vapour into the UTLS over the Third Pole region. Atmospheric Chemistry and Physics, 25(23), 17869–17888. [https://doi.org/10.5194/acp-25-17869-2025](https://doi.org/10.5194/acp-25-17869-2025){:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
 
 Monjo, R., *Y.H. Essa*, C. Prado-López, *M. Kaur*, D. Redolat, C. Paradinas, D. Royé, *B. Ahrens*, R. San José (2025) High time- and spatial-resolution climate scenarios of the DISTENDER project according to statistical and dynamical downscaling. Climate Services 40 100623 1-19. [https://doi.org/10.1016/j.cliser.2025.100623](https://doi.org/10.1016/j.cliser.2025.100623){:target="_blank" rel="noopener"}.
@@ -148,8 +155,7 @@ Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern 
 Weather Clim. Dynam., 4, 809–822. <a href="https://doi.org/10.5194/wcd-4-809-2023" target="_blank">https://doi.org/10.5194/wcd-4-809-2023</a>
 
 *Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) 
-Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology. 
-<a href="https://doi.org/10.1029/2022PA004607" target="_blank">Accepted.</a>
+Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology, 38(8), [e2022PA004607](https://doi.org/10.1029/2022PA004607) {:target="_blank" rel="noopener"}.
 
 *Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023)
 Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. 
