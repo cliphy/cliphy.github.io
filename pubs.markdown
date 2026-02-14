@@ -155,7 +155,8 @@ Atmospheric response to cold wintertime Tibetan Plateau conditions over eastern 
 Weather Clim. Dynam., 4, 809–822. <a href="https://doi.org/10.5194/wcd-4-809-2023" target="_blank">https://doi.org/10.5194/wcd-4-809-2023</a>
 
 *Kelemen, F.D.*, S. Steinig, A. de Boer, J. Zhu, WL Chan, I. Niezgodzki, D.K. Hutchinson, G. Knorr, A. Abe-Ouchi, *B. Ahrens* (2023) 
-Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology, 38(8), [e2022PA004607](https://doi.org/10.1029/2022PA004607) {:target="_blank" rel="noopener"}.
+Meridional Heat Transport in the DeepMIP Eocene ensemble: non-CO2 and CO2 effects. Paleoceanography and Paleoclimatology, 38(8). [e2022PA004607](https://doi.org/10.1029/2022PA004607) {:target="_blank" rel="noopener"}
+<!-- VeWA -->
 
 *Hamouda, M.E., C. Czakay, C. Primo, A. Hoff, B. Ahrens* (2023)
 Zu Atmosphärischen Ursachen für Extreme Hochwasserereignisse in Mitteleuropa / On Atmospheric Drivers for Central European Flood Events. 
