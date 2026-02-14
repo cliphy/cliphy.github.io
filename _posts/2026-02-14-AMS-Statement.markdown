@@ -8,3 +8,5 @@ date:   2026-02-14
 harm health and well-being for current and future generations.*:
 
 [pdf](./AResponsetotheDecisiontoRescindEPAs2009EndangermentFinding.pdf)
+
+[web-link](https://www.ametsoc.org/ams/about-ams/ams-statements/statements-of-the-ams-in-force/a-response-to-the-decision-to-rescind-epas-2009-endangerment-finding/?_zs=oFhhc1&_zl=hxnbA)
