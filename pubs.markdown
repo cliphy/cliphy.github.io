@@ -20,10 +20,6 @@ Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipit
 Convection-parameterizing Regional Climate Models:
 Insights from the Kilometer-scale. Subm. to GRL
 
-*Kelemen, F., R. Lohmann*, J. Zhu, *B. Ahrens* (2025) Role of paleogeography on large-scale circulation during the early Eocene. Subm. to Climate of the Past. 
-[Preprint: https://doi.org/10.5194/egusphere-2025-4923](https://doi.org/10.5194/egusphere-2025-4923){:target="_blank" rel="noopener"}
-<!-- VeWA, DKRZ -->
-
 *Singh, P.*, ..., *B. Ahrens* (2025) Nepal's First Recorded Tornado: Its Effect on the Upper Troposphere and Lower Stratosphere's Moisture. Subm. to SOLA
 <!-- TP-Change, DKRZ -->
 
@@ -50,6 +46,12 @@ associated North-Western Mediterranean Sea state in regional coupled
 climate simulations: evaluation and projection. Subm. to
 ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
 target="_blank">https://doi.org/10.5194/esd-2022-24</a>
+
+**2026:**
+
+*Kelemen, F., R. Lohmann*, J. Zhu, *B. Ahrens* (2026) Role of paleogeography on large-scale circulation during the early Eocene. Climate of the Past. Accepted.
+[Preprint: https://doi.org/10.5194/egusphere-2025-4923](https://doi.org/10.5194/egusphere-2025-4923){:target="_blank" rel="noopener"}
+<!-- VeWA, DKRZ -->
 
 **2025:**
 
