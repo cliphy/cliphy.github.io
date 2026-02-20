@@ -19,8 +19,8 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 
 ## BSc theses
 -  <span style="font-size: 14px; font-family: Georgia;">
-	Synoptische Untersuchungen von Tagen mit Starkwind/Böen an hessischen Wetterstationen / 
-	HB -> 18.2.26</span>
+	Synoptische Untersuchungen von Tagen mit Starkwind/ Böen an hessischen Wetterstationen / 
+	H. Barner, 2026 </span>
 -  <span style="font-size: 14px; font-family: Georgia;">
 	Elevation dependent warming in the Greater Alpine Region between 1985-2019 / 
 	<a href="https://user.uni-frankfurt.de/~bahrens/bscpdfs/BScDHufnagel2024.pdf"
