@@ -12,9 +12,11 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Voit, P., M. Hundhausen, L. Seregina, H. Feldmann, *B. Ahrens*, and M. Heistermann (2026) Southern Germany's 100-year flash flood discharge expected to increase by 30% under an RCP8.5 climate. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1229/){:target="_blank" rel="noopener"}
+
 Lunt, D.J., ... *F. Kelemen*, ... (2026) DeepMIP-Eocene-p2: Experimental design for Phase 2 of the early Eocene component of the the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Eocene). Subm. to GMD. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/){:target="_blank" rel="noopener"}
 
-*Parmar, M.* et al. (2026) Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM. Subm. to TC
+*Parmar, M.*, K. Fröhlich, A. Sanna, T. Stacke, M. Benassi, Z. Luo, D. Peano, B. Ahrens (2026) Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM. Subm. to TC. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-381/) {:target="_blank" rel="noopener"}
 
 Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipitation Biases in
 Convection-parameterizing Regional Climate Models:
