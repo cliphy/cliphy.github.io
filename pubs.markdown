@@ -12,9 +12,16 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Parras-Berrocal, I.M., ... *B. Ahrens*, ... (2026) Assessing Regional Projections of Marine Climatic Impact-Drivers Using Coordinated Ensembles: Framework and Application to the Mediterranean Sea. Subm. to Earth’s Future
+
+De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Subm. to Ocean Science. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2752/){:target="_blank" rel="noopener"}
+
+
 Voit, P., M. Hundhausen, L. Seregina, H. Feldmann, *B. Ahrens*, and M. Heistermann (2026) Southern Germany's 100-year flash flood discharge expected to increase by 30% under an RCP8.5 climate. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1229/){:target="_blank" rel="noopener"}
 
-Lunt, D.J., ... *F. Kelemen*, ... (2026) DeepMIP-Eocene-p2: Experimental design for Phase 2 of the early Eocene component of the the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Eocene). Subm. to GMD. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/){:target="_blank" rel="noopener"}
+*Singh, P.*, *B. Ahrens* (2025) Moist convection and water vapour transport into the upper troposphere over the Third Pole in multi-scale ICON-CLM simulations.
+Subm. to MAUSAM.
+<!-- TP-Change, DKRZ -->
 
 *Parmar, M.*, K. Fröhlich, A. Sanna, T. Stacke, M. Benassi, *Z. Luo*, D. Peano, *B. Ahrens* (2026) Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM. Subm. to TC. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-381/){:target="_blank" rel="noopener"} 
 
@@ -22,11 +29,7 @@ Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipit
 Convection-parameterizing Regional Climate Models:
 Insights from the Kilometer-scale. Subm. to GRL
 
-*Singh, P.*, ..., *B. Ahrens* (2025) Nepal's First Recorded Tornado: Its Effect on the Upper Troposphere and Lower Stratosphere's Moisture. Subm. to SOLA
-<!-- TP-Change, DKRZ -->
-
-*Singh, P.*, *B. Ahrens* (2025) Impact of extreme events on the UTLS water vapour over the Third Pole in multi-scale ICON-CLM simulations.
-Subm. to AR.
+*Singh, P.*, ..., *B. Ahrens* (2025) Nepal's First Recorded Tornado: Its Effect on the Upper Troposphere and Lower Stratosphere's Moisture. Subm. to SOLA [Preprint](https://www.researchsquare.com/article/rs-9620530/v1) {:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
 
 *Lohmann, R., C. Purr, B. Ahrens* (2025) Atmospheric blocking and climate extremes in Germany in present and future climate. Subm. to NHESS. 
@@ -41,23 +44,28 @@ Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](
 
 <!-- *Hamouda, M.E., C. Czakay, B. Ahrens*. On Convection During Vb-Cyclone Events in Present and Warmer Climate. GRL. Subm. -->
 
-*Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens
- (2022).  *
+*Pothapakula, P.K., A. Hoff, A. Obermann-Hellhund , T. Keber,  B. Ahrens*
+ (2022)
 Vb-cyclones and
 associated North-Western Mediterranean Sea state in regional coupled
 climate simulations: evaluation and projection. Subm. to
-ESD. <a href="https://esd.copernicus.org/preprints/esd-2022-24/"
-target="_blank">https://doi.org/10.5194/esd-2022-24</a>
+ESD. [Preprint: https://esd.copernicus.org/preprints/esd-2022-24/](https://esd.copernicus.org/preprints/esd-2022-24/){:target="_blank" rel="noopener"}
 
 **2026:**
+
+Lunt, D.J., ... *F. Kelemen*, ... (2026) DeepMIP-Eocene-p2: Experimental design for Phase 2 of the early Eocene component of the the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Eocene). Accepted by GMD. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/){:target="_blank" rel="noopener"}
 
 *Kelemen, F., R. Lohmann*, J. Zhu, *B. Ahrens* (2026) Role of paleogeography on large-scale circulation during the early Eocene. Climate of the Past. Accepted.
 [Preprint: https://doi.org/10.5194/egusphere-2025-4923](https://doi.org/10.5194/egusphere-2025-4923){:target="_blank" rel="noopener"}
 <!-- VeWA, DKRZ -->
 
+*Risto, D.*, K. Fröhlich, *B. Ahrens* (2026) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing.
+Earth Syst Environ 10, 2011–2022. [DOI: 10.1007/s41748-025-00728-6](https://link.springer.com/article/10.1007/s41748-025-00728-6){:target="_blank" rel="noopener"}
+<!-- CSC GUF -->
+
 **2025:**
 
-*Zhicheng Luo, Risto, D.*, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
+*Zhicheng Luo, D. Risto*, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 The Cryosphere, 19, 6547–6576. [https://doi.org/10.5194/tc-19-6547-2025](https://doi.org/10.5194/tc-19-6547-2025){:target="_blank" rel="noopener"}
 <!-- CAS, IDEA S4S FS-SF, DKRZ -->
 
@@ -73,17 +81,13 @@ Junior, D. Zardi (2025) Elevation Dependent Climate Change in Mountain Environme
 [https://doi.org/10.1038/s43017-025-00740-4](https://doi.org/10.1038/s43017-025-00740-4){:target="_blank" rel="noopener"}
 
 
-Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B.Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
+Parras-Berrocal, I. M., R. Waldman, N. M. Gonzalez, *B. Ahrens*, W. Cabos, G. Jordà, P. Lionello, P., G. Sannino, S. Somot (2025) Mediterranean relative sea level projections under high-emission regional
 climate scenarios. Env. Research Letters. 20 114068. 
 [DOI 10.1088/1748-9326/ae15a5](https://iopscience.iop.org/article/10.1088/1748-9326/ae15a5/meta){:target="_blank" rel="noopener"}
 
 Jadhav, H., *P. Singh, B. Ahrens*, J. Schmidli (2025) Machine Learning-Based Identification of Key Predictors for Lightning Events in the Third Pole Region. ISPRS Int. J. Geo-Inf. 2025, 14(8), 319. 
 [https://doi.org/10.3390/ijgi14080319](https://doi.org/10.3390/ijgi14080319){:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
-
-*Risto, D.*, K. Fröhlich, *B. Ahrens* (2025) Seasonal Snow Simulation: Sensitivity to Initialization, Parameterization, and Forcing.
-Earth Systems and Environment. [DOI: 10.1007/s41748-025-00728-6](https://link.springer.com/article/10.1007/s41748-025-00728-6){:target="_blank" rel="noopener"}
-<!-- CSC GUF -->
 
 *Rameshan, A., P. Singh, B. Ahrens* (2025) Cross-Examination of Reanalysis Datasets on Elevation-Dependent
 Climate Change in the Third Pole Region. Atmosphere. 16(3), 327.
@@ -97,7 +101,7 @@ PLOS ONE, 20(2): e0317786.
 
 **2024:**
 
-I. M. Parras-Berrocal, I.M., R. Waldman, F. Sevault, S. Somot, N. Gonzalez, *B. Ahrens*, 
+Parras-Berrocal, I.M., R. Waldman, F. Sevault, S. Somot, N. Gonzalez, *B. Ahrens*, 
 A. Anav, V. Djurdjević, S. Gualdi, *M. E. Hamouda*, L. Li, P. Lionello, G. Sannino, D. V. Sein (2024) 
 Response of the Mediterranean Sea surface circulation at various global warming levels: A multi-model approach. 
 Geophysical Research Letters, 51, e2024GL111695.
@@ -387,7 +391,7 @@ target="_blank">DOI: 10.1016/j.earscirev.2020.103349</a>
 Stengel,* B. Ahrens* (2020) Analyzing the Arctic
 Feedback Mechanism between Sea Ice and Low-Level Clouds using 34 Years
 of Satellite Observations. Journal of Climate. 33 (17): 7479–7501. <a
-href="https://journals.ametsoc.org/jcli/article/33/17/7479/348638/Analyzing-the-Arctic-Feedback-Mechanism-between"
+href="https://journals.ametsoc.org/view/journals/clim/33/17/jcliD190895.xml"
 target="_blank">DOI: 10.1175/JCLI-D-19-0895.1</a> 
 
 Drobinski, P., N.

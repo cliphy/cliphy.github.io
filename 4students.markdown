@@ -244,9 +244,8 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Evaporation/ M.M. -> 11.26</span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">MLT-based obs. operator/ M.B. -> 1.2.26</span>
--   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Climate emulation/ B.R. -> 1.12.24</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);"> Satellite Observations in a Fully AI-driven Data
+Assimilation Framework / M. Berntheusel, 2026</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Nowcasting Intense Local Precipitation Using
 a Multi-Input Machine Learning Model / <a
