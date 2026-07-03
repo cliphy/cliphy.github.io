@@ -5,7 +5,7 @@ permalink: /4students/
 ---
 
 > Ich habe kein Patentrezept, aber ein Ziel.  
-> -- <cite>Anonymous</cite>
+> -- <cite>Anonymous</cite> 
 
 > Perfektion ist Lähmung.  
 > -- <cite>Winston Churchill (1874-1965)</cite>
