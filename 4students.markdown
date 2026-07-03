@@ -15,7 +15,7 @@ Get in touch! Often, the most exciting and suitable subjects develop from a conv
 
 Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Allgemeine Hinweise](#allgemeine-hinweise) below.
 
-*Links to pdfs active only in the intranet of the Goethe Univ.*
+~~*Links to pdfs active only in the intranet of the Goethe Univ.*~~ Links broken (new file host still to be found)
 
 ## BSc theses
 -  <span style="font-size: 14px; font-family: Georgia;">
@@ -242,7 +242,7 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Mass balance/ J.H. -> 5.26</span>
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Evaporation/ M.M. -> 11.26</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);"> Parametrisation of Latent Heat Flux over the Mediterranean Sea/ M.M. -> 30.12.26</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);"> Satellite Observations in a Fully AI-driven Data
 Assimilation Framework / M. Berntheusel, 2026</span>

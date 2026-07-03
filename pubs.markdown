@@ -12,6 +12,11 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Hernandez, D., M. Bertola, D. Lun, J. Parajka, *R. Lohmann, B. Ahrens*, J. McPhee, and G. Blöschl (2026) How atmospheric blocking influences floods in Europe. Subm. to WRR
+
+*Singh, P., B. Ahrens* (2026) Fire Patterns in the Himalaya and Their Meteorological Drivers from
+Km-Scale ICON-CLM Simulations. Subm. to EESP
+
 Parras-Berrocal, I.M., ... *B. Ahrens*, ... (2026) Assessing Regional Projections of Marine Climatic Impact-Drivers Using Coordinated Ensembles: Framework and Application to the Mediterranean Sea. Subm. to Earth’s Future
 
 De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Subm. to Ocean Science. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2752/){:target="_blank" rel="noopener"}
@@ -249,9 +254,7 @@ Mediterranean and Opportunities for Improvements. Atmosphere, 13(7), 1007. [DOI:
 Macdonald, E., B.
 Merz, B. Guse, L.M. Wietzke, S. Ullrich, M. Kemter, *B. Ahrens*, S.
 Vorogushyn (2022). Event and Catchment Controls of Heavy Tail Behavior of
-Floods. Water Resources Research. <a
-href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031260"
-target="_blank">DOI: 10.1029/2021WR031260</a>
+Floods. Water Resources Research. [DOI: 10.1029/2021WR031260](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031260){:target="_blank" rel="noopener"} 
 
 
 *Purr, C.*, E. Brisson, H. Schlünzen, *B. Ahrens* (2022). Convective rain cell properties
