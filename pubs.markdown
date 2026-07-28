@@ -12,10 +12,9 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
-Hernandez, D., M. Bertola, D. Lun, J. Parajka, *R. Lohmann, B. Ahrens*, J. McPhee, and G. Blöschl (2026) How atmospheric blocking influences floods in Europe. Subm. to WRR
+S. Somot, E. Coppola, G. Jordà, G. Sannino, *B. Ahrens*, M. Reale, F. Solmon, P. Ruti, A. Anav, M. V. Struglia, L. Li, P. Nabat, F. Sevault, P. K. Pothapakula, W. Cabos, D. Sein, V. Djurdjevic, P. Lionello, S. Gualdi, B. Önol, F. Batibeniz, J. Karagiorgos, R. Pennel, P. Drobinski, I. Pieczka, R. Pongrácz, K. P. Chun, R. Ranasinghe, J. A. Jimenez, M. Baklouti, J. Fernandez, J. Soto Navarro, J. Mindlin, I. M. Parras Berrocal, R. Waldman, N. M. Gonzalez, M. Chericoni, S. Darmaraki, M. Gaertner, N. Dunić, L. Vargas-Heinz, O. Roussot (2026) Modelling the Mediterranean regional climate system: overview of the Med-CORDEX achievements and open challenges. Subm. to PLOS Climate
 
-*Singh, P., B. Ahrens* (2026) Fire Patterns in the Himalaya and Their Meteorological Drivers from
-Km-Scale ICON-CLM Simulations. Subm. to EESP
+Hernandez, D., M. Bertola, D. Lun, J. Parajka, *R. Lohmann, B. Ahrens*, J. McPhee, and G. Blöschl (2026) How atmospheric blocking influences floods in Europe. Subm. to WRR
 
 Parras-Berrocal, I.M., ... *B. Ahrens*, ... (2026) Assessing Regional Projections of Marine Climatic Impact-Drivers Using Coordinated Ensembles: Framework and Application to the Mediterranean Sea. Subm. to Earth’s Future
 
@@ -28,7 +27,6 @@ Voit, P., M. Hundhausen, L. Seregina, H. Feldmann, *B. Ahrens*, and M. Heisterma
 Subm. to MAUSAM.
 <!-- TP-Change, DKRZ -->
 
-*Parmar, M.*, K. Fröhlich, A. Sanna, T. Stacke, M. Benassi, *Z. Luo*, D. Peano, *B. Ahrens* (2026) Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM. Subm. to TC. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-381/){:target="_blank" rel="noopener"} 
 
 Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipitation Biases in
 Convection-parameterizing Regional Climate Models:
@@ -57,6 +55,13 @@ climate simulations: evaluation and projection. Subm. to
 ESD. [Preprint: https://esd.copernicus.org/preprints/esd-2022-24/](https://esd.copernicus.org/preprints/esd-2022-24/){:target="_blank" rel="noopener"}
 
 **2026:**
+
+*Singh, P., B. Ahrens* (2026) Fire Patterns in the Himalaya and Their Meteorological Drivers from
+Km-Scale ICON-CLM Simulations. Environ. Earth Sci. Proc., 46(1), 8. [DOI: 10.3390/eesp2026046008](https://doi.org/10.3390/eesp2026046008){:target="_blank" rel="noopener"}
+<!-- TP-Change, DKRZ, GOETHE-NHR -->
+
+*Parmar, M.*, K. Fröhlich, A. Sanna, T. Stacke, M. Benassi, *Z. Luo*, D. Peano, *B. Ahrens* (2026) Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM. The Cryosphere, 20, 4157–4184. [https://doi.org/10.5194/tc-20-4157-2026](https://doi.org/10.5194/tc-20-4157-2026){:target="_blank" rel="noopener"} 
+<!-- IDEA S4S FS-SF(4823IDEAP2), DKRZ, GOETHE-NHR -->
 
 Lunt, D.J., ... *F. Kelemen*, ... (2026) DeepMIP-Eocene-p2: Experimental design for Phase 2 of the early Eocene component of the the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Eocene). Accepted by GMD. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/){:target="_blank" rel="noopener"}
 

@@ -19,6 +19,9 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 
 ## BSc theses
 -  <span style="font-size: 14px; font-family: Georgia;">
+	Possibilistische Interpretation stationsbezogener DWD-Ensemblevorhersagen für warnrelevanten Niederschlag / 
+	T.R. -> 4.8.2026 </span>
+-  <span style="font-size: 14px; font-family: Georgia;">
 	Synoptische Untersuchungen von Tagen mit Starkwind/ Böen an hessischen Wetterstationen / 
 	H. Barner, 2026 </span>
 -  <span style="font-size: 14px; font-family: Georgia;">
