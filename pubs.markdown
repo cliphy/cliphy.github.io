@@ -18,15 +18,7 @@ Hernandez, D., M. Bertola, D. Lun, J. Parajka, *R. Lohmann, B. Ahrens*, J. McPhe
 
 Parras-Berrocal, I.M., ... *B. Ahrens*, ... (2026) Assessing Regional Projections of Marine Climatic Impact-Drivers Using Coordinated Ensembles: Framework and Application to the Mediterranean Sea. Subm. to Earth’s Future
 
-De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Subm. to Ocean Science. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2752/){:target="_blank" rel="noopener"}
-
-
 Voit, P., M. Hundhausen, L. Seregina, H. Feldmann, *B. Ahrens*, and M. Heistermann (2026) Southern Germany's 100-year flash flood discharge expected to increase by 30% under an RCP8.5 climate. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1229/){:target="_blank" rel="noopener"}
-
-*Singh, P.*, *B. Ahrens* (2025) Moist convection and water vapour transport into the upper troposphere over the Third Pole in multi-scale ICON-CLM simulations.
-Subm. to MAUSAM.
-<!-- TP-Change, DKRZ -->
-
 
 Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipitation Biases in
 Convection-parameterizing Regional Climate Models:
@@ -55,6 +47,12 @@ climate simulations: evaluation and projection. Subm. to
 ESD. [Preprint: https://esd.copernicus.org/preprints/esd-2022-24/](https://esd.copernicus.org/preprints/esd-2022-24/){:target="_blank" rel="noopener"}
 
 **2026:**
+
+De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Ocean Science. [Accepted.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2752/){:target="_blank" rel="noopener"}
+
+*Singh, P.*, *B. Ahrens* (2025) Moist convection and water vapour transport into the upper troposphere over the Third Pole in multi-scale ICON-CLM simulations.
+MAUSAM. Accepted.
+<!-- TP-Change, DKRZ -->
 
 *Singh, P., B. Ahrens* (2026) Fire Patterns in the Himalaya and Their Meteorological Drivers from
 Km-Scale ICON-CLM Simulations. Environ. Earth Sci. Proc., 46(1), 8. [DOI: 10.3390/eesp2026046008](https://doi.org/10.3390/eesp2026046008){:target="_blank" rel="noopener"}

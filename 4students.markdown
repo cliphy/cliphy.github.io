@@ -243,7 +243,7 @@ Ongoing or completed theses [BSc](#bsc-theses), [MSc](#msc-theses), and some [Al
 
 ## MSc theses
 -   <span
-    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);">Mass balance/ J.H. -> 5.26</span>
+    style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);"> Calculating a surface mass balance for the Siachen Glacier based on model data/ J.H. -> 14.2.27</span>
 -   <span
     style="font-size: 14px; font-family: Georgia; color: rgb(0, 0, 0);"> Parametrisation of Latent Heat Flux over the Mediterranean Sea/ M.M. -> 30.12.26</span>
 -   <span
