@@ -12,6 +12,8 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+*Lohmann, R.*, C. Purr, *B. Ahrens* (2026) Large-scale drivers of atmospheric blocking in reanalyses and CMIP6 climate simulations. Subm. to TAAC
+
 S. Somot, E. Coppola, G. Jordà, G. Sannino, *B. Ahrens*, M. Reale, F. Solmon, P. Ruti, A. Anav, M. V. Struglia, L. Li, P. Nabat, F. Sevault, P. K. Pothapakula, W. Cabos, D. Sein, V. Djurdjevic, P. Lionello, S. Gualdi, B. Önol, F. Batibeniz, J. Karagiorgos, R. Pennel, P. Drobinski, I. Pieczka, R. Pongrácz, K. P. Chun, R. Ranasinghe, J. A. Jimenez, M. Baklouti, J. Fernandez, J. Soto Navarro, J. Mindlin, I. M. Parras Berrocal, R. Waldman, N. M. Gonzalez, M. Chericoni, S. Darmaraki, M. Gaertner, N. Dunić, L. Vargas-Heinz, O. Roussot (2026) Modelling the Mediterranean regional climate system: overview of the Med-CORDEX achievements and open challenges. Subm. to PLOS Climate
 
 Hernandez, D., M. Bertola, D. Lun, J. Parajka, *R. Lohmann, B. Ahrens*, J. McPhee, and G. Blöschl (2026) How atmospheric blocking influences floods in Europe. Subm. to WRR
@@ -48,10 +50,11 @@ ESD. [Preprint: https://esd.copernicus.org/preprints/esd-2022-24/](https://esd.
 
 **2026:**
 
-De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Ocean Science. [Accepted.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2752/){:target="_blank" rel="noopener"}
+De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Ocean Science.  22, 2725–2742. [https://doi.org/10.5194/os-22-2725-2026](https://doi.org/10.5194/os-22-2725-2026){:target="_blank" rel="noopener"}
+<!-- MedCORDEX, DKRZ -->
 
 *Singh, P.*, *B. Ahrens* (2025) Moist convection and water vapour transport into the upper troposphere over the Third Pole in multi-scale ICON-CLM simulations.
-MAUSAM. Accepted.
+MAUSAM, 77(4), 1223-1244. [https://doi.org/10.54302/mausam.v77i4.7562](https://doi.org/10.54302/mausam.v77i4.7562) {:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
 
 *Singh, P., B. Ahrens* (2026) Fire Patterns in the Himalaya and Their Meteorological Drivers from
