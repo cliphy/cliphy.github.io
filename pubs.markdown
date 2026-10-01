@@ -54,7 +54,7 @@ De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berroc
 <!-- MedCORDEX, DKRZ -->
 
 *Singh, P.*, *B. Ahrens* (2025) Moist convection and water vapour transport into the upper troposphere over the Third Pole in multi-scale ICON-CLM simulations.
-MAUSAM, 77(4), 1223-1244. [https://doi.org/10.54302/mausam.v77i4.7562](https://doi.org/10.54302/mausam.v77i4.7562) {:target="_blank" rel="noopener"}
+MAUSAM, 77(4), 1223-1244. [https://doi.org/10.54302/mausam.v77i4.7562](https://doi.org/10.54302/mausam.v77i4.7562){:target="_blank" rel="noopener"}
 <!-- TP-Change, DKRZ -->
 
 *Singh, P., B. Ahrens* (2026) Fire Patterns in the Himalaya and Their Meteorological Drivers from
