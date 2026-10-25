@@ -12,6 +12,13 @@ group members are *italicized*)
 **Submitted or
 Under Revision:**
 
+Qinglong You， Fangying Wu， Xianglong Li， Ziyi Cai， Hans W. Chen， Zhiyan Zuo， Zhiyuan Cong， Meng Gao， Pengling Wang， Nick Pepin， *Bodo Ahrens*， Shichang Kang， Cunde Xiao， Panmao Zhai， Tandong Yao ， Deliang Chen， Renhe Zhang (2026) Evolving Climate–Cryosphere System of the Tibetan Plateau: Extremes, Abrupt Events, and Cascading Risks. Subm. to Cryospheric Science and Engineering
+
+
+*Kelemen, F.D*, N. Meijer (2026) 
+Monsoon and Tropical Cyclones shape mid-latitude precipitation in East Asia during the early Eocene hothouse climate. 
+Subm. to Climate Dynamics
+
 *Lohmann, R.*, C. Purr, *B. Ahrens* (2026) Large-scale drivers of atmospheric blocking in reanalyses and CMIP6 climate simulations. Subm. to TAAC
 
 S. Somot, E. Coppola, G. Jordà, G. Sannino, *B. Ahrens*, M. Reale, F. Solmon, P. Ruti, A. Anav, M. V. Struglia, L. Li, P. Nabat, F. Sevault, P. K. Pothapakula, W. Cabos, D. Sein, V. Djurdjevic, P. Lionello, S. Gualdi, B. Önol, F. Batibeniz, J. Karagiorgos, R. Pennel, P. Drobinski, I. Pieczka, R. Pongrácz, K. P. Chun, R. Ranasinghe, J. A. Jimenez, M. Baklouti, J. Fernandez, J. Soto Navarro, J. Mindlin, I. M. Parras Berrocal, R. Waldman, N. M. Gonzalez, M. Chericoni, S. Darmaraki, M. Gaertner, N. Dunić, L. Vargas-Heinz, O. Roussot (2026) Modelling the Mediterranean regional climate system: overview of the Med-CORDEX achievements and open challenges. Subm. to PLOS Climate
