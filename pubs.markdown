@@ -14,10 +14,10 @@ Under Revision:**
 
 Qinglong You， Fangying Wu， Xianglong Li， Ziyi Cai， Hans W. Chen， Zhiyan Zuo， Zhiyuan Cong， Meng Gao， Pengling Wang， Nick Pepin， *Bodo Ahrens*， Shichang Kang， Cunde Xiao， Panmao Zhai， Tandong Yao ， Deliang Chen， Renhe Zhang (2026) Evolving Climate–Cryosphere System of the Tibetan Plateau: Extremes, Abrupt Events, and Cascading Risks. Subm. to Cryospheric Science and Engineering
 
-
 *Kelemen, F.D*, N. Meijer (2026) 
 Monsoon and Tropical Cyclones shape mid-latitude precipitation in East Asia during the early Eocene hothouse climate. 
-Subm. to Climate Dynamics
+Subm. to Climate Dynamics. [Preprint.](https://doi.org/10.21203/rs.3.rs-11206418/v1){:target="_blank" rel="noopener"}
+<!-- EarthCriSys, DKRZ -->
 
 *Lohmann, R.*, C. Purr, *B. Ahrens* (2026) Large-scale drivers of atmospheric blocking in reanalyses and CMIP6 climate simulations. Subm. to TAAC
 
@@ -40,8 +40,6 @@ Insights from the Kilometer-scale. Subm. to GRL
 [Preprint: EGUsphere](https://doi.org/10.5194/egusphere-2025-3670){:target="_blank" rel="noopener"}
 <!-- HLNUG, ..., DFG SPATE, DISTENDER, DKRZ -->
 
-*Czakay, C.*, L. Tarasova , *B. Ahrens* (2025) Composition, frequency and magnitude of future rain-on-snow floods in Germany. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3532/){:target="_blank" rel="noopener"}
-
 <!-- *Zhicheng Luo*, Duoying Ji, *B. Ahrens* (2025) Assessing Climate Modeling Uncertainties in the Siberian Frozen Soil Regions by Contrasting CMIP6 and LS3MIP. 
 Subm. to The Cryosphere. [Preprint: https://doi.org/10.5194/egusphere-2025-389](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-389/){:target="_blank" rel="noopener"} -->
 <!-- CAS, IDEA S4S FS-SF, DKRZ -->
@@ -56,6 +54,8 @@ climate simulations: evaluation and projection. Subm. to
 ESD. [Preprint: https://esd.copernicus.org/preprints/esd-2022-24/](https://esd.copernicus.org/preprints/esd-2022-24/){:target="_blank" rel="noopener"}
 
 **2026:**
+
+*Czakay, C.*, L. Tarasova , *B. Ahrens* (2026) Composition, frequency and magnitude of future rain-on-snow floods in Germany. NHESS, 26, 5609–5631. [https://doi.org/10.5194/nhess-26-5609-2026](https://doi.org/10.5194/nhess-26-5609-2026){:target="_blank" rel="noopener"}
 
 De Rovere, F., Bonino, G., McAdam, R., Scoccimarro, E., Somot, S., Parras-Berrocal, I.-M., *Ahrens, B.*, Djurdjevic, V., Li, L., Masina, S. (2026) The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea. Ocean Science.  22, 2725–2742. [https://doi.org/10.5194/os-22-2725-2026](https://doi.org/10.5194/os-22-2725-2026){:target="_blank" rel="noopener"}
 <!-- MedCORDEX, DKRZ -->
@@ -465,7 +465,8 @@ COSMO-CLM. Atmosphere, 10(12), 810.
 of information exchange in idealized and climate system
 applications. 
 Entropy, 21(11), 1094.
-<https://doi.org/10.3390/e21111094> (OA)
+[https://doi.org/10.3390/e21111094](https://doi.org/10.3390/e21111094){:target="_blank" rel="noopener"} (OA)
+
 
 Lengfeld, K., T. Winterrath, *T.
 Junghänel*, M.

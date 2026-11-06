@@ -62,7 +62,7 @@ Attended special courses: 1992: Summer-school on Nonlinear Magnetohydrodynamic P
 
 
 
-### Examples of honours/distinctions/membership of societies, institutions, committees:
+### Examples of honours/distinctions/membership/services of/for societies, institutions, committees:
 
 Co-Chair Reinhard-Süring Stiftung für Atmosphären- und Klimaforschung (2021-)
 
@@ -84,7 +84,7 @@ Member of the Meteorological Societies of Austria (2003-), Germany (2006-, ZVF v
 
 Faculty Geoscience/Geography board (2007-13)
 
-Managing Director: Institute for Atmospheric and Environmental Sciences, Goethe-University Frankfurt/Main (2008-09, 2014-16) 
+Managing Director: Institute for Atmospheric and Environmental Sciences, Goethe-University Frankfurt/Main (2008-09, 2014-16, 2026-) 
 
 Convener Interfacing hydrological and meteorological models in forecasting systems (EMS 2010, Zürich, EMS 2011, Berlin, EMS 2012, Lodz, EMS 2013, Reading, EMS 2014, Prague, EMS 2015, Sofia), Convener Climate Modelling (EMS 2019, Copenhagen, EMS 2020, Bratislava),  Regionaler und Globaler Klimawandel (DACH 2010, Bonn), Precipitation variability and climate change (WMO QPE/QPF III, 2010, Nanjing - also IOC member), Co-Convener Data & Models, Induction & Prediction, Information & Uncertainty: Towards a common framework for model building and predictions in the Geosciences (EGU 2013, 2014, 2015, Vienna), Co-Convener Models in Geosciences (EGU 2016, Vienna)
 
