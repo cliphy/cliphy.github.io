@@ -25,8 +25,6 @@ S. Somot, E. Coppola, G. Jordà, G. Sannino, *B. Ahrens*, M. Reale, F. Solmon, P
 
 Hernandez, D., M. Bertola, D. Lun, J. Parajka, *R. Lohmann, B. Ahrens*, J. McPhee, and G. Blöschl (2026) How atmospheric blocking influences floods in Europe. Subm. to WRR
 
-Parras-Berrocal, I.M., ... *B. Ahrens*, ... (2026) Assessing Regional Projections of Marine Climatic Impact-Drivers Using Coordinated Ensembles: Framework and Application to the Mediterranean Sea. Subm. to Earth’s Future
-
 Voit, P., M. Hundhausen, L. Seregina, H. Feldmann, *B. Ahrens*, and M. Heistermann (2026) Southern Germany's 100-year flash flood discharge expected to increase by 30% under an RCP8.5 climate. Subm. to NHESS. [Preprint.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1229/){:target="_blank" rel="noopener"}
 
 Medvedova, A., ... *B. Ahrens*, ... (2026) Temperature-dependent Hourly Precipitation Biases in
@@ -54,6 +52,8 @@ climate simulations: evaluation and projection. Subm. to
 ESD. [Preprint: https://esd.copernicus.org/preprints/esd-2022-24/](https://esd.copernicus.org/preprints/esd-2022-24/){:target="_blank" rel="noopener"}
 
 **2026:**
+
+Parras-Berrocal, I.M., ... *B. Ahrens*, ... (2026) Assessing Regional Projections of Marine Climatic Impact-Drivers Using Coordinated Ensembles: Framework and Application to the Mediterranean Sea. Earth’s Future. Accepted
 
 *Czakay, C.*, L. Tarasova , *B. Ahrens* (2026) Composition, frequency and magnitude of future rain-on-snow floods in Germany. NHESS, 26, 5609–5631. [https://doi.org/10.5194/nhess-26-5609-2026](https://doi.org/10.5194/nhess-26-5609-2026){:target="_blank" rel="noopener"}
 
